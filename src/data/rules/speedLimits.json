@@ -1,0 +1,170 @@
+{
+  "id": 1,
+  "title": {
+    "en": "Speed Limits",
+    "sv": "Hastighetsbegränsningar",
+    "ar": "حدود السرعة"
+  },
+  "rules": [
+    {
+      "id": 101,
+      "text": {
+        "en": "20 km/h in residential areas with children playing",
+        "sv": "20 km/h i bostadsområden med lekande barn",
+        "ar": "20 كم/س في المناطق السكنية مع أطفال يلعبون"
+      }
+    },
+    {
+      "id": 102,
+      "text": {
+        "en": "30 km/h near hospitals and elderly care facilities",
+        "sv": "30 km/h nära sjukhus och äldreboenden",
+        "ar": "30 كم/س بالقرب من المستشفيات ومرافق رعاية المسنين"
+      }
+    },
+    {
+      "id": 103,
+      "text": {
+        "en": "40 km/h in urban areas with heavy pedestrian traffic",
+        "sv": "40 km/h i tättbebyggt område med tung fotgängartrafik",
+        "ar": "40 كم/س في المناطق الحضرية مع كثافة حركة المشاة"
+      }
+    },
+    {
+      "id": 104,
+      "text": {
+        "en": "50 km/h standard limit in all urban areas",
+        "sv": "50 km/h standardgräns i alla tättbebyggda områden",
+        "ar": "50 كم/س الحد القياسي في جميع المناطق الحضرية"
+      }
+    },
+    {
+      "id": 105,
+      "text": {
+        "en": "60 km/h on urban arterial roads during peak hours",
+        "sv": "60 km/h på stadens huvudvägar under rusningstid",
+        "ar": "60 كم/س على الطرق الشريانية الحضرية خلال ساعات الذروة"
+      }
+    },
+    {
+      "id": 106,
+      "text": {
+        "en": "70 km/h on rural roads without center markings",
+        "sv": "70 km/h på landsvägar utan mittlinjemarkering",
+        "ar": "70 كم/س على الطرق الريفية بدون علامات مركزية"
+      }
+    },
+    {
+      "id": 107,
+      "text": {
+        "en": "80 km/h on divided rural highways",
+        "sv": "80 km/h på separerade landsvägar",
+        "ar": "80 كم/س على الطرق الريفية المقسمة"
+      }
+    },
+    {
+      "id": 108,
+      "text": {
+        "en": "90 km/h on expressways outside urban areas",
+        "sv": "90 km/h på motortrafikleder utanför tättbebyggt område",
+        "ar": "90 كم/س على الطرق السريعة خارج المناطق الحضرية"
+      }
+    },
+    {
+      "id": 109,
+      "text": {
+        "en": "100 km/h on motorways during summer months",
+        "sv": "100 km/h på motorvägar under sommarmånaderna",
+        "ar": "100 كم/س على الطرق السريعة خلال أشهر الصيف"
+      }
+    },
+    {
+      "id": 110,
+      "text": {
+        "en": "110 km/h on certain upgraded highways",
+        "sv": "110 km/h på vissa uppgraderade motorvägar",
+        "ar": "110 كم/س على بعض الطرق السريعة المحدثة"
+      }
+    },
+    {
+      "id": 111,
+      "text": {
+        "en": "120 km/h maximum on designated motorways",
+        "sv": "120 km/h max på utsedda motorvägar",
+        "ar": "120 كم/س كحد أقصى على الطرق السريعة المحددة"
+      }
+    },
+    {
+      "id": 112,
+      "text": {
+        "en": "Reduced speed limits apply during winter (Oct-Apr)",
+        "sv": "Sänkta hastighetsgränser gäller under vintern (okt-apr)",
+        "ar": "تطبيق حدود سرعة مخفضة خلال الشتاء (أكتوبر-أبريل)"
+      }
+    },
+    {
+      "id": 113,
+      "text": {
+        "en": "Variable speed limits in work zones must be obeyed",
+        "sv": "Variabla hastighetsbegränsningar i arbetszoner måste efterlevas",
+        "ar": "يجب الالتزام بحدود السرعة المتغيرة في مناطق العمل"
+      }
+    },
+    {
+      "id": 114,
+      "text": {
+        "en": "10 km/h speed limit in parking garages",
+        "sv": "10 km/h hastighetsbegränsning i parkeringshus",
+        "ar": "حد السرعة 10 كم/س في مواقف السيارات"
+      }
+    },
+    {
+      "id": 115,
+      "text": {
+        "en": "15 km/h limit when approaching school buses with flashing lights",
+        "sv": "15 km/h gräns när du närmar dig skolbussar med blinkande ljus",
+        "ar": "حد السرعة 15 كم/س عند الاقتراب من حافلات المدارس ذات الأضواء الوامضة"
+      }
+    },
+    {
+      "id": 116,
+      "text": {
+        "en": "Speed cameras enforce limits with strict fines",
+        "sv": "Hastighetskameror verkställer begränsningar med stränga böter",
+        "ar": "تطبق كاميرات السرعة الحدود مع غرامات صارمة"
+      }
+    },
+    {
+      "id": 117,
+      "text": {
+        "en": "20% higher fines for speeding in school zones",
+        "sv": "20% högre böter för fortkörning i skolzoner",
+        "ar": "غرامات أعلى بنسبة 20% لتجاوز السرعة في مناطق المدارس"
+      }
+    },
+    {
+      "id": 118,
+      "text": {
+        "en": "Trucks limited to 80 km/h on all roads",
+        "sv": "Lastbilars hastighet begränsad till 80 km/h på alla vägar",
+        "ar": "تقتصر الشاحنات على 80 كم/س على جميع الطرق"
+      }
+    },
+    {
+      "id": 119,
+      "text": {
+        "en": "Buses limited to 90 km/h on highways",
+        "sv": "Bussar begränsade till 90 km/h på motorvägar",
+        "ar": "تقتصر الحافلات على 90 كم/س على الطرق السريعة"
+      }
+    },
+    {
+      "id": 120,
+      "text": {
+        "en": "Speed limits reduced by 10 km/h when towing trailers",
+        "sv": "Hastighetsbegränsningar sänks med 10 km/h vid släpfordon",
+        "ar": "تخفيض حدود السرعة بمقدار 10 كم/س عند سحب المقطورات"
+      }
+    }
+  ]
+}

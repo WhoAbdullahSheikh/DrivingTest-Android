@@ -1,0 +1,170 @@
+{
+  "id": 2,
+  "title": {
+    "en": "Right of Way",
+    "sv": "Väjningsplikt",
+    "ar": "حق الأولوية"
+  },
+  "rules": [
+    {
+      "id": 201,
+      "text": {
+        "en": "Yield to all traffic when entering a main road from a driveway",
+        "sv": "Ge väg för all trafik när du kör in på huvudväg från uppfart",
+        "ar": "أفسح الطريق لجميع المركبات عند الدخول إلى طريق رئيسي من مدخل"
+      }
+    },
+    {
+      "id": 202,
+      "text": {
+        "en": "Yield to vehicles already in a roundabout",
+        "sv": "Ge väg för fordon som redan är i rondell",
+        "ar": "أفسح الطريق للمركبات الموجودة بالفعل في الدوار"
+      }
+    },
+    {
+      "id": 203,
+      "text": {
+        "en": "Yield to pedestrians at all marked and unmarked crossings",
+        "sv": "Ge väg för fotgängare vid alla markerade och omarkerade övergångsställen",
+        "ar": "أفسح الطريق للمشاة عند جميع المعابر المعلّمة وغير المعلّمة"
+      }
+    },
+    {
+      "id": 204,
+      "text": {
+        "en": "Yield to funeral processions regardless of traffic signals",
+        "sv": "Ge väg för begravningståg oavsett trafiksignaler",
+        "ar": "أفسح الطريق لمواكب الجنازات بغض النظر عن إشارات المرور"
+      }
+    },
+    {
+      "id": 205,
+      "text": {
+        "en": "Yield to animals being herded across roadways",
+        "sv": "Ge väg för djur som drivs över vägbanan",
+        "ar": "أفسح الطريق للحيوانات التي يتم نقلها عبر الطرق"
+      }
+    },
+    {
+      "id": 206,
+      "text": {
+        "en": "Yield to all traffic when making a U-turn",
+        "sv": "Ge väg för all trafik när du gör en U-sväng",
+        "ar": "أفسح الطريق لجميع المركبات عند عمل منعطف حاد"
+      }
+    },
+    {
+      "id": 207,
+      "text": {
+        "en": "Yield to vehicles on through roads in T-intersections",
+        "sv": "Ge väg för fordon på genomfartsvägar i T-korsningar",
+        "ar": "أفسح الطريق للمركبات على الطرق الرئيسية في التقاطعات على شكل حرف T"
+      }
+    },
+    {
+      "id": 208,
+      "text": {
+        "en": "Yield to vehicles approaching from the right at uncontrolled intersections",
+        "sv": "Ge väg för fordon som närmar sig från höger vid oreglerade korsningar",
+        "ar": "أفسح الطريق للمركبات القادمة من اليمين عند التقاطعات غير المنظمة"
+      }
+    },
+    {
+      "id": 209,
+      "text": {
+        "en": "Yield to all traffic when entering a traffic circle",
+        "sv": "Ge väg för all trafik när du kör in i en trafikkrets",
+        "ar": "أفسح الطريق لجميع المركبات عند الدخول في دائرة مرورية"
+      }
+    },
+    {
+      "id": 210,
+      "text": {
+        "en": "Yield to emergency vehicles even if you have green light",
+        "sv": "Ge väg för utryckningsfordon även om du har grönt ljus",
+        "ar": "أفسح الطريق لمركبات الطوارئ حتى لو كان لديك ضوء أخضر"
+      }
+    },
+    {
+      "id": 211,
+      "text": {
+        "en": "Yield to trams at all times unless they're yielding to you",
+        "sv": "Ge väg för spårvagnar till alla tillfällen om de inte ger väg för dig",
+        "ar": "أفسح الطريق للترام في جميع الأوقات ما لم تكن تتنازل لك"
+      }
+    },
+    {
+      "id": 212,
+      "text": {
+        "en": "Yield to vehicles completing their maneuver in intersections",
+        "sv": "Ge väg för fordon som slutför sin manöver i korsningar",
+        "ar": "أفسح الطريق للمركبات التي تكمل مناورتها في التقاطعات"
+      }
+    },
+    {
+      "id": 213,
+      "text": {
+        "en": "Yield to agricultural vehicles on rural roads",
+        "sv": "Ge väg för jordbruksfordon på landsvägar",
+        "ar": "أفسح الطريق للمركبات الزراعية على الطرق الريفية"
+      }
+    },
+    {
+      "id": 214,
+      "text": {
+        "en": "Yield to cyclists in bicycle lanes when crossing",
+        "sv": "Ge väg för cyklister i cykelfält när du korsar",
+        "ar": "أفسح الطريق لراكبي الدراجات في مسارات الدراجات عند العبور"
+      }
+    },
+    {
+      "id": 215,
+      "text": {
+        "en": "Yield to vehicles on your left in multi-lane roundabouts",
+        "sv": "Ge väg för fordon till vänster i flerfiliga rondeller",
+        "ar": "أفسح الطريق للمركبات على يسارك في الدوارات متعددة المسارات"
+      }
+    },
+    {
+      "id": 216,
+      "text": {
+        "en": "Yield to all traffic when exiting private property",
+        "sv": "Ge väg för all trafik när du lämnar privat egendom",
+        "ar": "أفسح الطريق لجميع المركبات عند الخروج من ممتلكات خاصة"
+      }
+    },
+    {
+      "id": 217,
+      "text": {
+        "en": "Yield to vehicles already in the intersection when light turns green",
+        "sv": "Ge väg för fordon som redan är i korsningen när ljuset blir grönt",
+        "ar": "أفسح الطريق للمركبات الموجودة بالفعل في التقاطع عندما يتحول الضوء إلى الأخضر"
+      }
+    },
+    {
+      "id": 218,
+      "text": {
+        "en": "Yield to maintenance vehicles with flashing amber lights",
+        "sv": "Ge väg för underhållsfordon med blinkande gula ljus",
+        "ar": "أفسح الطريق لمركبات الصيانة ذات الأضواء الصفراء الوامضة"
+      }
+    },
+    {
+      "id": 219,
+      "text": {
+        "en": "Yield to horse riders on bridle paths crossing roadways",
+        "sv": "Ge väg för ryttare på ridvägar som korsar vägbanor",
+        "ar": "أفسح الطريق لراكبي الخيول على مسارات الفرس التي تعبر الطرق"
+      }
+    },
+    {
+      "id": 220,
+      "text": {
+        "en": "Yield to vehicles on higher classification roads",
+        "sv": "Ge väg för fordon på vägar med högre klassificering",
+        "ar": "أفسح الطريق للمركبات على الطرق ذات التصنيف الأعلى"
+      }
+    }
+  ]
+}

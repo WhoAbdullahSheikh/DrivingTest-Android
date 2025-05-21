@@ -187,9 +187,9 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
-    padding: 20,
+    padding: 15,
     borderRadius: 12,
-    marginBottom: 15,
+    marginBottom: 5,
   },
   primaryCard: {
     backgroundColor: '#4CAF50',
@@ -240,7 +240,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(0, 0, 0, 0.7)',
     borderTopWidth: 1,
     borderTopColor: 'rgba(255, 255, 255, 0.1)',
-    paddingBottom: 22,
+    paddingBottom: 40,
   },
   navItem: {
     alignItems: 'center',

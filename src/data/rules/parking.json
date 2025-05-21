@@ -1,0 +1,170 @@
+{
+  "id": 8,
+  "title": {
+    "en": "Parking",
+    "sv": "Parkering",
+    "ar": "وقوف السيارات"
+  },
+  "rules": [
+    {
+      "id": 801,
+      "text": {
+        "en": "No parking within 5m of fire hydrants",
+        "sv": "Förbud mot parkering inom 5 m från brandposter",
+        "ar": "ممنوع الوقوف ضمن 5 أمتار من صنابير الإطفاء"
+      }
+    },
+    {
+      "id": 802,
+      "text": {
+        "en": "Angle parking only where marked",
+        "sv": "Snett parkering endast där det är markerat",
+        "ar": "الوقوف بزاوية فقط في الأماكن المحددة"
+      }
+    },
+    {
+      "id": 803,
+      "text": {
+        "en": "Parallel park within 30cm of curb",
+        "sv": "Parallellparkera inom 30 cm från trottoarkanten",
+        "ar": "الوقوف الموازي ضمن 30 سم من الرصيف"
+      }
+    },
+    {
+      "id": 804,
+      "text": {
+        "en": "No parking on sidewalks",
+        "sv": "Förbud mot parkering på trottoarer",
+        "ar": "ممنوع الوقوف على الأرصفة"
+      }
+    },
+    {
+      "id": 805,
+      "text": {
+        "en": "Disabled parking spaces require displayed permit",
+        "sv": "Handikapparkeringsplatser kräver synligt tillstånd",
+        "ar": "تتطلب أماكن وقوف المعاقين تصريحًا معروضًا"
+      }
+    },
+    {
+      "id": 806,
+      "text": {
+        "en": "No parking in loading zones during restricted hours",
+        "sv": "Förbud mot parkering i lastzoner under begränsade tider",
+        "ar": "ممنوع الوقوف في مناطق التحميل خلال الساعات المحددة"
+      }
+    },
+    {
+      "id": 807,
+      "text": {
+        "en": "Park in direction of traffic flow on one-way streets",
+        "sv": "Parkera i färdriktningen på enkelriktade gator",
+        "ar": "الوقوف في اتجاه حركة المرور في الشوارع ذات الاتجاه الواحد"
+      }
+    },
+    {
+      "id": 808,
+      "text": {
+        "en": "No parking within 15m of bus stops",
+        "sv": "Förbud mot parkering inom 15 m från busshållplatser",
+        "ar": "ممنوع الوقوف ضمن 15 مترًا من مواقف الحافلات"
+      }
+    },
+    {
+      "id": 809,
+      "text": {
+        "en": "Residential parking permits required in some zones",
+        "sv": "Bostadsparkeringsbevis krävs i vissa zoner",
+        "ar": "تصاريح وقوف السيارات السكنية مطلوبة في بعض المناطق"
+      }
+    },
+    {
+      "id": 810,
+      "text": {
+        "en": "No parking on bridges or in tunnels",
+        "sv": "Förbud mot parkering på broar eller i tunnlar",
+        "ar": "ممنوع الوقوف على الجسور أو في الأنفاق"
+      }
+    },
+    {
+      "id": 811,
+      "text": {
+        "en": "Time-limited parking must be clearly marked",
+        "sv": "Tidsbegränsad parkering måste tydligt markeras",
+        "ar": "يجب تحديد مواقف السيارات المحدودة الوقت بوضوح"
+      }
+    },
+    {
+      "id": 812,
+      "text": {
+        "en": "No parking where it obstructs driveways",
+        "sv": "Förbud mot parkering där det blockerar uppfarter",
+        "ar": "ممنوع الوقوف حيث يعيق مداخل المنازل"
+      }
+    },
+    {
+      "id": 813,
+      "text": {
+        "en": "Emergency vehicles must have 3m clearance",
+        "sv": "Utryckningsfordon måste ha 3 m fritt utrymme",
+        "ar": "يجب أن يكون لمركبات الطوارئ مساحة خالية 3 أمتار"
+      }
+    },
+    {
+      "id": 814,
+      "text": {
+        "en": "No parking on yellow curb markings",
+        "sv": "Förbud mot parkering på gula kantmarkeringar",
+        "ar": "ممنوع الوقوف على علامات الرصيف الصفراء"
+      }
+    },
+    {
+      "id": 815,
+      "text": {
+        "en": "Parking meters must be paid during business hours",
+        "sv": "Parkeringsautomater måste betalas under kontorstid",
+        "ar": "يجب دفع مواقف السيارات خلال ساعات العمل"
+      }
+    },
+    {
+      "id": 816,
+      "text": {
+        "en": "No parking in bicycle lanes",
+        "sv": "Förbud mot parkering i cykelfält",
+        "ar": "ممنوع الوقوف في مسارات الدراجات"
+      }
+    },
+    {
+      "id": 817,
+      "text": {
+        "en": "Commercial loading zones 15 minute limit",
+        "sv": "Kommersiella lastzoner 15 minuters gräns",
+        "ar": "مناطق التحميل التجارية حد 15 دقيقة"
+      }
+    },
+    {
+      "id": 818,
+      "text": {
+        "en": "No parking within 50m of railway crossings",
+        "sv": "Förbud mot parkering inom 50 m från järnvägsövergångar",
+        "ar": "ممنوع الوقوف ضمن 50 مترًا من تقاطعات السكك الحديدية"
+      }
+    },
+    {
+      "id": 819,
+      "text": {
+        "en": "Parking prohibited in fire lanes at all times",
+        "sv": "Parkering förbjuden i brandgator till alla tider",
+        "ar": "ممنوع الوقوف في ممرات الإطفاء في جميع الأوقات"
+      }
+    },
+    {
+      "id": 820,
+      "text": {
+        "en": "No parking where signs prohibit stopping",
+        "sv": "Förbud mot parkering där skyltar förbjuder stopp",
+        "ar": "ممنوع الوقوف حيث تمنع اللافتات التوقف"
+      }
+    }
+  ]
+}

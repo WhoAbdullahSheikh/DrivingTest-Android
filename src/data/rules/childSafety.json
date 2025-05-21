@@ -1,0 +1,170 @@
+{
+  "id": 6,
+  "title": {
+    "en": "Child Safety",
+    "sv": "Barnsäkerhet",
+    "ar": "سلامة الأطفال"
+  },
+  "rules": [
+    {
+      "id": 601,
+      "text": {
+        "en": "Rear-facing seats required until at least 15 months old",
+        "sv": "Bakåtvända bilbarnstolar krävs tills minst 15 månaders ålder",
+        "ar": "مقاعد مواجهة للخلف مطلوبة حتى عمر 15 شهرًا على الأقل"
+      }
+    },
+    {
+      "id": 602,
+      "text": {
+        "en": "Booster seats required until child reaches 135cm height",
+        "sv": "Bilbarnstolar krävs tills barnet når 135 cm i höjd",
+        "ar": "مقاعد معززة مطلوبة حتى يصل الطفل إلى 135 سم"
+      }
+    },
+    {
+      "id": 603,
+      "text": {
+        "en": "Children under 13 should ride in back seat",
+        "sv": "Barn under 13 år bör åka i baksätet",
+        "ar": "يجب أن يجلس الأطفال دون 13 سنة في المقعد الخلفي"
+      }
+    },
+    {
+      "id": 604,
+      "text": {
+        "en": "Never place rear-facing seat in front of active airbag",
+        "sv": "Placera aldrig bakåtvänd bilbarnstol framför aktiv krockkudde",
+        "ar": "لا تضع مقعدًا مواجهًا للخلف أمام وسادة هوائية نشطة"
+      }
+    },
+    {
+      "id": 605,
+      "text": {
+        "en": "Harness straps should be at or below child's shoulders",
+        "sv": "Selebanden ska vara vid eller under barnets axlar",
+        "ar": "يجب أن تكون أحزمة الحماية عند أو تحت كتفي الطفل"
+      }
+    },
+    {
+      "id": 606,
+      "text": {
+        "en": "Car seats must meet current safety standards",
+        "sv": "Bilbarnstolar måste uppfylla aktuella säkerhetsstandarder",
+        "ar": "يجب أن تفي مقاعد السيارة بمعايير السلامة الحالية"
+      }
+    },
+    {
+      "id": 607,
+      "text": {
+        "en": "No bulky clothing under harness straps",
+        "sv": "Inga tjocka kläder under selebanden",
+        "ar": "لا توجد ملابس ضخمة تحت أحزمة الحماية"
+      }
+    },
+    {
+      "id": 608,
+      "text": {
+        "en": "Replace car seats after any moderate/severe crash",
+        "sv": "Byt bilbarnstol efter varje medelsvår/allvarlig krock",
+        "ar": "استبدل مقاعد السيارة بعد أي تصادم متوسط/شديد"
+      }
+    },
+    {
+      "id": 609,
+      "text": {
+        "en": "Children should not wear backpacks in car seats",
+        "sv": "Barn ska inte bära ryggsäckar i bilbarnstolar",
+        "ar": "يجب ألا يرتدي الأطفال حقائب الظهر في مقاعد السيارة"
+      }
+    },
+    {
+      "id": 610,
+      "text": {
+        "en": "Check car seat expiration date (typically 6-10 years)",
+        "sv": "Kontrollera bilbarnstolens utgångsdatum (vanligtvis 6-10 år)",
+        "ar": "تحقق من تاريخ انتهاء صلاحية مقعد السيارة (عادة 6-10 سنوات)"
+      }
+    },
+    {
+      "id": 611,
+      "text": {
+        "en": "Never leave children alone in parked vehicles",
+        "sv": "Lämna aldrig barn ensamma i parkerade fordon",
+        "ar": "لا تترك الأطفال بمفردهم في المركبات المتوقفة"
+      }
+    },
+    {
+      "id": 612,
+      "text": {
+        "en": "Child locks should be engaged on rear doors",
+        "sv": "Barnlås ska vara aktiverade på bakdörrar",
+        "ar": "يجب تفعيل أقفال الأطفال على الأبواب الخلفية"
+      }
+    },
+    {
+      "id": 613,
+      "text": {
+        "en": "No aftermarket car seat accessories unless approved",
+        "sv": "Inga eftermarknadsbilbarnstoltillbehör om inte godkända",
+        "ar": "لا توجد ملحقات مقاعد سيارة ما بعد البيع إلا إذا تمت الموافقة عليها"
+      }
+    },
+    {
+      "id": 614,
+      "text": {
+        "en": "Car seats must be properly installed (less than 1 inch movement)",
+        "sv": "Bilbarnstolar måste vara korrekt installerade (mindre än 1 tum rörelse)",
+        "ar": "يجب تثبيت مقاعد السيارة بشكل صحيح (حركة أقل من 1 بوصة)"
+      }
+    },
+    {
+      "id": 615,
+      "text": {
+        "en": "Children in rear-facing seats must not ride in front seat",
+        "sv": "Barn i bakåtvända bilbarnstolar får inte åka fram",
+        "ar": "الأطفال في المقاعد المواجهة للخلف لا يجب أن يركبوا في المقعد الأمامي"
+      }
+    },
+    {
+      "id": 616,
+      "text": {
+        "en": "Tethers must be used for forward-facing seats",
+        "sv": "Förankringsband måste användas för framåtvända bilbarnstolar",
+        "ar": "يجب استخدام أحزمة التثبيت للمقاعد المواجهة للأمام"
+      }
+    },
+    {
+      "id": 617,
+      "text": {
+        "en": "No car seats on side-facing or rear-facing vehicle seats",
+        "sv": "Inga bilbarnstolar på sidovända eller bakåtvända bilstolar",
+        "ar": "لا توجد مقاعد سيارة على المقاعد الجانبية أو الخلفية للمركبة"
+      }
+    },
+    {
+      "id": 618,
+      "text": {
+        "en": "Children should be in car seats until at least 4 years old",
+        "sv": "Barn ska sitta i bilbarnstolar tills de är minst 4 år",
+        "ar": "يجب أن يكون الأطفال في مقاعد السيارة حتى عمر 4 سنوات على الأقل"
+      }
+    },
+    {
+      "id": 619,
+      "text": {
+        "en": "Register car seats with manufacturer for recall notices",
+        "sv": "Registrera bilbarnstolar hos tillverkaren för återkallningsmeddelanden",
+        "ar": "سجل مقاعد السيارة لدى الشركة المصنعة لإشعارات الاستدعاء"
+      }
+    },
+    {
+      "id": 620,
+      "text": {
+        "en": "No second-hand car seats without complete history",
+        "sv": "Inga begagnade bilbarnstolar utan komplett historik",
+        "ar": "لا توجد مقاعد سيارة مستعملة بدون تاريخ كامل"
+      }
+    }
+  ]
+}

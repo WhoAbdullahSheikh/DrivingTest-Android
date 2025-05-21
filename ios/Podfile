@@ -1,4 +1,4 @@
-# Resolve react_native_pods.rb with node to allow for hoisting
+
 require Pod::Executable.execute_command('node', ['-p',
   'require.resolve(
     "react-native/scripts/react_native_pods.rb",
@@ -16,17 +16,12 @@ end
 
 target 'DrivingTest' do
   config = use_native_modules!
-
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
   use_react_native!(
     :path => config[:reactNativePath],
     # An absolute path to your application root.
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
-
-  target 'DrivingTestTests' do
-    inherit! :complete
-    # Pods for testing
-  end
 
   post_install do |installer|
     # https://github.com/facebook/react-native/blob/main/packages/react-native/scripts/react_native_pods.rb#L197-L202

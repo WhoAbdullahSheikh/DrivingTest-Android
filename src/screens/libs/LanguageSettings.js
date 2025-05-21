@@ -56,7 +56,7 @@ const LanguageSettings = ({ navigation }) => {
     <View style={styles.container}>
       <View style={styles.header}>
         <TouchableOpacity onPress={() => navigation.goBack()}>
-          <Icon name="arrow-left" size={24} color="#fff" />
+          <Icon name="arrow-left" size={20} color="#fff" />
         </TouchableOpacity>
         <Text style={styles.title}>{translations.title}</Text>
       </View>
@@ -103,12 +103,12 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     padding: 20,
-    marginTop: 50,
+    marginTop: 30,
     borderBottomWidth: 1,
     borderBottomColor: 'rgba(255,255,255,0.1)',
   },
   title: {
-    fontSize: 30,
+    fontSize: 24,
     fontWeight: 'bold',
     color: '#fff',
     marginLeft: 20,

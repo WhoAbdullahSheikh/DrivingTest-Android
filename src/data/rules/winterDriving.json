@@ -1,0 +1,170 @@
+{
+  "id": 4,
+  "title": {
+    "en": "Winter Driving",
+    "sv": "Vinterkörning",
+    "ar": "القيادة الشتوية"
+  },
+  "rules": [
+    {
+      "id": 401,
+      "text": {
+        "en": "Winter tires must have minimum 3mm tread depth",
+        "sv": "Vinterdäck måste ha minst 3 mm mönsterdjup",
+        "ar": "يجب أن يكون عمق مداس الإطارات الشتوية 3 مم على الأقل"
+      }
+    },
+    {
+      "id": 402,
+      "text": {
+        "en": "Studded tires prohibited April 16 - September 30",
+        "sv": "Piggdäck förbjudna 16 april - 30 september",
+        "ar": "الإطارات المدببة ممنوعة من 16 أبريل إلى 30 سبتمبر"
+      }
+    },
+    {
+      "id": 403,
+      "text": {
+        "en": "Snow chains permitted when conditions require",
+        "sv": "Snökedjor tillåtna när förhållandena kräver det",
+        "ar": "مسموح بسلاسل الثلج عندما تتطلب الظروف"
+      }
+    },
+    {
+      "id": 404,
+      "text": {
+        "en": "Clear all windows, lights and license plates of snow",
+        "sv": "Rensa alla fönster, lyktor och registreringsskyltar från snö",
+        "ar": "أزل الثلج عن جميع النوافذ والمصابيح واللوحات"
+      }
+    },
+    {
+      "id": 405,
+      "text": {
+        "en": "Roof snow must be removed before driving",
+        "sv": "Taket måste rensas från snö innan körning",
+        "ar": "يجب إزالة ثلج السقف قبل القيادة"
+      }
+    },
+    {
+      "id": 406,
+      "text": {
+        "en": "Increase following distance to 5-6 seconds",
+        "sv": "Öka avståndet till 5-6 sekunder",
+        "ar": "زيادة مسافة المتابعة إلى 5-6 ثوان"
+      }
+    },
+    {
+      "id": 407,
+      "text": {
+        "en": "Use engine braking on downhill slopes",
+        "sv": "Använd motorbromsning på nedförsbackar",
+        "ar": "استخدم فرملة المحرك على المنحدرات"
+      }
+    },
+    {
+      "id": 408,
+      "text": {
+        "en": "Avoid cruise control on slippery surfaces",
+        "sv": "Undvik farthållare på hala ytor",
+        "ar": "تجنب مثبت السرعة على الأسطح الزلقة"
+      }
+    },
+    {
+      "id": 409,
+      "text": {
+        "en": "Steer into skids to regain control",
+        "sv": "Styr in i sladdar för att återfå kontroll",
+        "ar": "توجيه السيارة في اتجاه الانزلاق لاستعادة السيطرة"
+      }
+    },
+    {
+      "id": 410,
+      "text": {
+        "en": "Winter emergency kit required in northern regions",
+        "sv": "Vinternödkit krävs i norra regioner",
+        "ar": "مجموعة طوارئ الشتاء مطلوبة في المناطق الشمالية"
+      }
+    },
+    {
+      "id": 411,
+      "text": {
+        "en": "Park facing downhill in icy conditions",
+        "sv": "Parkera nedförsbacke vid isiga förhållanden",
+        "ar": "الوقوف متجهًا لأسفل التل في الظروف الجليدية"
+      }
+    },
+    {
+      "id": 412,
+      "text": {
+        "en": "Use winter-grade windshield washer fluid",
+        "sv": "Använd spolarvätska av vinterkvalitet",
+        "ar": "استخدم سائل غسيل الزجاج الأمامي الخاص بالشتاء"
+      }
+    },
+    {
+      "id": 413,
+      "text": {
+        "en": "Check battery condition before winter season",
+        "sv": "Kontrollera batteriets tillstånd före vintersäsongen",
+        "ar": "تحقق من حالة البطارية قبل فصل الشتاء"
+      }
+    },
+    {
+      "id": 414,
+      "text": {
+        "en": "Allow extra time for winter journeys",
+        "sv": "Tillåt extra tid för vinterresor",
+        "ar": "امنح وقتًا إضافيًا للرحلات الشتوية"
+      }
+    },
+    {
+      "id": 415,
+      "text": {
+        "en": "Dress warmly in case of breakdown",
+        "sv": "Klä dig varmt ifall av bilhaveri",
+        "ar": "ارتدي ملابس دافئة في حالة التعطل"
+      }
+    },
+    {
+      "id": 416,
+      "text": {
+        "en": "Keep fuel tank at least half full",
+        "sv": "Håll bränsletanken minst halvfull",
+        "ar": "حافظ على خزان الوقود ممتلئًا بنصفه على الأقل"
+      }
+    },
+    {
+      "id": 417,
+      "text": {
+        "en": "Use low gears when starting on ice",
+        "sv": "Använd låga växlar vid start på is",
+        "ar": "استخدم التروس المنخفضة عند البدء على الجليد"
+      }
+    },
+    {
+      "id": 418,
+      "text": {
+        "en": "Watch for black ice on bridges and shadows",
+        "sv": "Var uppmärksam på svartis på broar och skuggor",
+        "ar": "احترس من الجليد الأسود على الجسور والمناطق المظللة"
+      }
+    },
+    {
+      "id": 419,
+      "text": {
+        "en": "Winter speed limits in effect November-March",
+        "sv": "Vinterhastighetsbegränsningar gäller november-mars",
+        "ar": "تطبيق حدود السرعة الشتوية من نوفمبر إلى مارس"
+      }
+    },
+    {
+      "id": 420,
+      "text": {
+        "en": "Special permits required for oversnow vehicles",
+        "sv": "Särskilda tillstånd krävs för terränghjuling",
+        "ar": "تصاريح خاصة مطلوبة للمركبات فوق الثلوج"
+      }
+    }
+  ]
+}

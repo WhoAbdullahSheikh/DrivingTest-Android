@@ -1,0 +1,170 @@
+{
+  "id": 9,
+  "title": {
+    "en": "Overtaking",
+    "sv": "Omkörning",
+    "ar": "التجاوز"
+  },
+  "rules": [
+    {
+      "id": 901,
+      "text": {
+        "en": "Only overtake when safe and legal",
+        "sv": "Kör bara om när det är säkert och lagligt",
+        "ar": "تجاوز فقط عندما يكون ذلك آمنًا وقانونيًا"
+      }
+    },
+    {
+      "id": 902,
+      "text": {
+        "en": "Maintain safe distance when overtaking",
+        "sv": "Håll säkert avstånd vid omkörning",
+        "ar": "حافظ على مسافة آمنة عند التجاوز"
+      }
+    },
+    {
+      "id": 903,
+      "text": {
+        "en": "No overtaking on solid center lines",
+        "sv": "Förbud mot omkörning vid heldragna mittlinjer",
+        "ar": "ممنوع التجاوز على الخطوط المركزية المتصلة"
+      }
+    },
+    {
+      "id": 904,
+      "text": {
+        "en": "Use turn signals before changing lanes",
+        "sv": "Använd blinkers innan filbyten",
+        "ar": "استخدم إشارات الانعطاف قبل تغيير المسارات"
+      }
+    },
+    {
+      "id": 905,
+      "text": {
+        "en": "Check blind spots before overtaking",
+        "sv": "Kontrollera döda vinkeln före omkörning",
+        "ar": "تحقق من النقاط العمياء قبل التجاوز"
+      }
+    },
+    {
+      "id": 906,
+      "text": {
+        "en": "No overtaking near intersections",
+        "sv": "Förbud mot omkörning nära korsningar",
+        "ar": "ممنوع التجاوز بالقرب من التقاطعات"
+      }
+    },
+    {
+      "id": 907,
+      "text": {
+        "en": "Overtake only at speeds not exceeding limit",
+        "sv": "Kör bara om i hastigheter som inte överskrider gränsen",
+        "ar": "تجاوز فقط بسرعات لا تتجاوز الحد"
+      }
+    },
+    {
+      "id": 908,
+      "text": {
+        "en": "No overtaking when approaching hill crests",
+        "sv": "Förbud mot omkörning när du närmar dig kullar",
+        "ar": "ممنوع التجاوز عند الاقتراب من قمم التلال"
+      }
+    },
+    {
+      "id": 909,
+      "text": {
+        "en": "Give way when being overtaken",
+        "sv": "Ge väg när du blir omkörd",
+        "ar": "أفسح الطريق عند تجاوزك"
+      }
+    },
+    {
+      "id": 910,
+      "text": {
+        "en": "No overtaking in school zones",
+        "sv": "Förbud mot omkörning i skolzoner",
+        "ar": "ممنوع التجاوز في مناطق المدارس"
+      }
+    },
+    {
+      "id": 911,
+      "text": {
+        "en": "Trucks prohibited from overtaking on certain hills",
+        "sv": "Lastbilar förbjudna att köra om på vissa kullar",
+        "ar": "يمنع على الشاحنات التجاوز على تلال معينة"
+      }
+    },
+    {
+      "id": 912,
+      "text": {
+        "en": "No overtaking in tunnels",
+        "sv": "Förbud mot omkörning i tunnlar",
+        "ar": "ممنوع التجاوز في الأنفاق"
+      }
+    },
+    {
+      "id": 913,
+      "text": {
+        "en": "Motorcycles may lane filter when safe",
+        "sv": "Motorcyklar kan köra mellan filer när det är säkert",
+        "ar": "قد تقوم الدراجات النارية بتصفية المسار عندما يكون ذلك آمنًا"
+      }
+    },
+    {
+      "id": 914,
+      "text": {
+        "en": "No overtaking when visibility is less than 100m",
+        "sv": "Förbud mot omkörning när sikt är mindre än 100 m",
+        "ar": "ممنوع التجاوز عندما تكون الرؤية أقل من 100 متر"
+      }
+    },
+    {
+      "id": 915,
+      "text": {
+        "en": "Overtaking prohibited where signs indicate",
+        "sv": "Omkörning förbjuden där skyltar anger",
+        "ar": "ممنوع التجاوز حيث تشير اللافتات"
+      }
+    },
+    {
+      "id": 916,
+      "text": {
+        "en": "No overtaking of school buses with flashing lights",
+        "sv": "Förbud mot omkörning av skolbussar med blinkande ljus",
+        "ar": "ممنوع تجاوز حافلات المدارس ذات الأضواء الوامضة"
+      }
+    },
+    {
+      "id": 917,
+      "text": {
+        "en": "Use left lane only for passing on highways",
+        "sv": "Använd vänster fil endast för omkörning på motorvägar",
+        "ar": "استخدم المسار الأيسر فقط للتجاوز على الطرق السريعة"
+      }
+    },
+    {
+      "id": 918,
+      "text": {
+        "en": "No overtaking emergency vehicles with active lights",
+        "sv": "Förbud mot omkörning av utryckningsfordon med aktiva ljus",
+        "ar": "ممنوع تجاوز مركبات الطوارئ ذات الأضواء النشطة"
+      }
+    },
+    {
+      "id": 919,
+      "text": {
+        "en": "Complete overtaking quickly and safely",
+        "sv": "Slutför omkörning snabbt och säkert",
+        "ar": "أكمل التجاوز بسرعة وأمان"
+      }
+    },
+    {
+      "id": 920,
+      "text": {
+        "en": "No overtaking when approaching pedestrian crossings",
+        "sv": "Förbud mot omkörning när du närmar dig övergångsställen",
+        "ar": "ممنوع التجاوز عند الاقتراب من معابر المشاة"
+      }
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": 5,
+  "title": {
+    "en": "Mobile Phones",
+    "sv": "Mobiltelefoner",
+    "ar": "الهواتف المحمولة"
+  },
+  "rules": [
+    {
+      "id": 501,
+      "text": {
+        "en": "No holding phones while vehicle is in motion",
+        "sv": "Ingen hållen telefon när fordonet är i rörelse",
+        "ar": "يمنع حمل الهواتف أثناء تحرك المركبة"
+      }
+    },
+    {
+      "id": 502,
+      "text": {
+        "en": "Voice commands permitted for navigation",
+        "sv": "Röstkommandon tillåtna för navigering",
+        "ar": "مسموح بالأوامر الصوتية للملاحة"
+      }
+    },
+    {
+      "id": 503,
+      "text": {
+        "en": "Phone mounts must not obstruct view",
+        "sv": "Telefonhållare får inte blockera sikten",
+        "ar": "يجب ألا تعيق حوامل الهاتف الرؤية"
+      }
+    },
+    {
+      "id": 504,
+      "text": {
+        "en": "No video calls while driving",
+        "sv": "Inga videosamtal under körning",
+        "ar": "لا للمكالمات المرئية أثناء القيادة"
+      }
+    },
+    {
+      "id": 505,
+      "text": {
+        "en": "Passengers may use phones if not distracting driver",
+        "sv": "Passagerare får använda telefoner om de inte distraherar föraren",
+        "ar": "يمكن للركاب استخدام الهواتف إذا لم تشتت انتباه السائق"
+      }
+    },
+    {
+      "id": 506,
+      "text": {
+        "en": "No browsing social media while driving",
+        "sv": "Ingen surfning på sociala medier under körning",
+        "ar": "يمنع تصفح وسائل التواصل أثناء القيادة"
+      }
+    },
+    {
+      "id": 507,
+      "text": {
+        "en": "Emergency calls exempt when safely pulled over",
+        "sv": "Nödringning undantagen vid säker stopp",
+        "ar": "إعفاء مكالمات الطوارئ عند التوقف بأمان"
+      }
+    },
+    {
+      "id": 508,
+      "text": {
+        "en": "No watching videos while driving",
+        "sv": "Ingen videotittande under körning",
+        "ar": "لا لمشاهدة الفيديوهات أثناء القيادة"
+      }
+    },
+    {
+      "id": 509,
+      "text": {
+        "en": "Bluetooth headsets limited to one earpiece",
+        "sv": "Bluetooth-hörlurar begränsade till en öronsnäcka",
+        "ar": "سماعات البلوتوث محدودة بسماعة واحدة"
+      }
+    },
+    {
+      "id": 510,
+      "text": {
+        "en": "No phone use while stopped at traffic lights",
+        "sv": "Ingen telefonanvändning vid stopp vid trafikljus",
+        "ar": "يمنع استخدام الهاتف أثناء التوقف عند إشارات المرور"
+      }
+    },
+    {
+      "id": 511,
+      "text": {
+        "en": "Commercial drivers have stricter phone restrictions",
+        "sv": "Yrkesförare har strängare telefonrestriktioner",
+        "ar": "سائقو المركبات التجارية لديهم قيود أشد على الهاتف"
+      }
+    },
+    {
+      "id": 512,
+      "text": {
+        "en": "No phone use in school zones",
+        "sv": "Ingen telefonanvändning i skolzoner",
+        "ar": "يمنع استخدام الهاتف في مناطق المدارس"
+      }
+    },
+    {
+      "id": 513,
+      "text": {
+        "en": "Phone use permitted for reporting emergencies",
+        "sv": "Telefonanvändning tillåten för att rapportera nödsituationer",
+        "ar": "مسموح باستخدام الهاتف للإبلاغ عن حالات الطوارئ"
+      }
+    },
+    {
+      "id": 514,
+      "text": {
+        "en": "No phone use in construction zones",
+        "sv": "Ingen telefonanvändning i byggzoner",
+        "ar": "يمنع استخدام الهاتف في مناطق البناء"
+      }
+    },
+    {
+      "id": 515,
+      "text": {
+        "en": "Voice-to-text messaging permitted",
+        "sv": "Röst-till-text-meddelanden tillåtna",
+        "ar": "مسموح بالرسائل الصوتية إلى النصية"
+      }
+    },
+    {
+      "id": 516,
+      "text": {
+        "en": "No phone use during adverse weather",
+        "sv": "Ingen telefonanvändning under ogynnsamt väder",
+        "ar": "يمنع استخدام الهاتف أثناء الطقس السيئ"
+      }
+    },
+    {
+      "id": 517,
+      "text": {
+        "en": "Phone use allowed for ride-share drivers when parked",
+        "sv": "Telefonanvändning tillåten för reseshare-förare när de är parkerade",
+        "ar": "مسموح باستخدام الهاتف لسائقي مشاركة الرحلات عند الوقوف"
+      }
+    },
+    {
+      "id": 518,
+      "text": {
+        "en": "No phone use while supervising learner drivers",
+        "sv": "Ingen telefonanvändning när du handleder övningskörare",
+        "ar": "يمنع استخدام الهاتف أثناء إشراف السائقين المتعلمين"
+      }
+    },
+    {
+      "id": 519,
+      "text": {
+        "en": "Smartwatches subject to same restrictions as phones",
+        "sv": "Smartklockor omfattas av samma begränsningar som telefoner",
+        "ar": "الساعات الذكية تخضع لنفس القيود مثل الهواتف"
+      }
+    },
+    {
+      "id": 520,
+      "text": {
+        "en": "No phone use while towing trailers",
+        "sv": "Ingen telefonanvändning vid släpfordon",
+        "ar": "يمنع استخدام الهاتف عند سحب المقطورات"
+      }
+    }
+  ]
+}

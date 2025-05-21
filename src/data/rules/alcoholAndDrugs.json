@@ -1,0 +1,170 @@
+{
+  "id": 3,
+  "title": {
+    "en": "Alcohol & Drugs",
+    "sv": "Alkohol och droger",
+    "ar": "الكحول والمخدرات"
+  },
+  "rules": [
+    {
+      "id": 301,
+      "text": {
+        "en": "0.02% BAC limit for novice drivers (first 2 years)",
+        "sv": "0.02% gräns för nybörjarförare (första 2 åren)",
+        "ar": "حد 0.02% للسائقين المبتدئين (أول سنتين)"
+      }
+    },
+    {
+      "id": 302,
+      "text": {
+        "en": "Zero tolerance for any illegal drugs in system",
+        "sv": "Nolltolerans för olagliga droger i systemet",
+        "ar": "عدم التسامح مطلقًا مع أي مخدرات غير قانونية في الجسم"
+      }
+    },
+    {
+      "id": 303,
+      "text": {
+        "en": "Prescription drugs affecting driving must be declared",
+        "sv": "Receptbelagda läkemedel som påverkar körningen måste deklareras",
+        "ar": "يجب الإعلان عن الأدوية الموصوفة التي تؤثر على القيادة"
+      }
+    },
+    {
+      "id": 304,
+      "text": {
+        "en": "24-hour suspension for BAC between 0.02-0.05%",
+        "sv": "24 timmars indragning för promille mellan 0.02-0.05%",
+        "ar": "تعليق الرخصة لمدة 24 ساعة لمستوى كحول بين 0.02-0.05%"
+      }
+    },
+    {
+      "id": 305,
+      "text": {
+        "en": "Mandatory alcohol education course for first offense",
+        "sv": "Obligatorisk alkoholutbildning för första förseelsen",
+        "ar": "دورة تعليمية إلزامية عن الكحول للمخالفة الأولى"
+      }
+    },
+    {
+      "id": 306,
+      "text": {
+        "en": "2-year license revocation for BAC > 0.1%",
+        "sv": "2-årigt körkortsåterkallande för promille > 0.1%",
+        "ar": "سحب الرخصة لمدة سنتين لمستوى كحول فوق 0.1%"
+      }
+    },
+    {
+      "id": 307,
+      "text": {
+        "en": "Vehicle impoundment for drug-impaired driving",
+        "sv": "Fordon beslagtas vid drogpåverkad körning",
+        "ar": "حجز المركبة عند القيادة تحت تأثير المخدرات"
+      }
+    },
+    {
+      "id": 308,
+      "text": {
+        "en": "Random breath testing permitted at checkpoints",
+        "sv": "Slumpmässiga alkotester tillåtna vid kontrollstationer",
+        "ar": "مسوحات تنفس عشوائية مسموحة عند نقاط التفتيش"
+      }
+    },
+    {
+      "id": 309,
+      "text": {
+        "en": "Passengers under 18 prohibited in car with drunk driver",
+        "sv": "Passagerare under 18 förbjudna i bil med berusad förare",
+        "ar": "يمنع وجود ركاب أقل من 18 سنة مع سائق مخمور"
+      }
+    },
+    {
+      "id": 310,
+      "text": {
+        "en": "Open alcohol containers prohibited in vehicle cabin",
+        "sv": "Öppna alkoholförpackningar förbjudna i kupén",
+        "ar": "حاويات الكحول المفتوحة ممنوعة في مقصورة السيارة"
+      }
+    },
+    {
+      "id": 311,
+      "text": {
+        "en": "3-year mandatory interlock device for repeat offenders",
+        "sv": "3-årig obligatorisk alkolås för återfallsförbrytare",
+        "ar": "جهاز قفل إشعال إلزامي لمدة 3 سنوات للمخالفين المتكررين"
+      }
+    },
+    {
+      "id": 312,
+      "text": {
+        "en": "Blood tests mandatory after serious accidents",
+        "sv": "Blodprov obligatoriskt efter allvarliga olyckor",
+        "ar": "فحوصات الدم إلزامية بعد الحوادث الخطيرة"
+      }
+    },
+    {
+      "id": 313,
+      "text": {
+        "en": "No refusal law for chemical testing",
+        "sv": "Ingen vägran lag för kemiska tester",
+        "ar": "لا يوجد قانون رفض للفحوصات الكيميائية"
+      }
+    },
+    {
+      "id": 314,
+      "text": {
+        "en": "8-hour waiting period after drinking before driving",
+        "sv": "8 timmars väntetid efter drickande innan körning",
+        "ar": "فترة انتظار 8 ساعات بعد الشرب قبل القيادة"
+      }
+    },
+    {
+      "id": 315,
+      "text": {
+        "en": "Corporate liability for work-related drunk driving",
+        "sv": "Företagsansvar för arbetsrelaterad rattfylleri",
+        "ar": "مسؤولية الشركات عن القيادة المخمورة المتعلقة بالعمل"
+      }
+    },
+    {
+      "id": 316,
+      "text": {
+        "en": "Enhanced penalties for drunk driving with minors present",
+        "sv": "Skärpta straff för rattfylleri med minderåriga närvarande",
+        "ar": "عقوبات مشددة للقيادة المخمورة مع وجود قاصرين"
+      }
+    },
+    {
+      "id": 317,
+      "text": {
+        "en": "10-year lookback period for prior offenses",
+        "sv": "10-årig tillbakablickande period för tidigare förseelser",
+        "ar": "فترة مراجعة مدتها 10 سنوات للمخالفات السابقة"
+      }
+    },
+    {
+      "id": 318,
+      "text": {
+        "en": "Zero tolerance for school bus drivers",
+        "sv": "Nolltolerans för skolbusschaufförer",
+        "ar": "عدم التسامح مطلقًا مع سائقي الحافلات المدرسية"
+      }
+    },
+    {
+      "id": 319,
+      "text": {
+        "en": "Mandatory community service for first offense",
+        "sv": "Obligatorisk samhällstjänst för första förseelsen",
+        "ar": "خدمة مجتمعية إلزامية للمخالفة الأولى"
+      }
+    },
+    {
+      "id": 320,
+      "text": {
+        "en": "Alcohol assessment required for license reinstatement",
+        "sv": "Alkoholbedömning krävs för återställande av körkort",
+        "ar": "تقييم الكحول مطلوب لاستعادة الرخصة"
+      }
+    }
+  ]
+}

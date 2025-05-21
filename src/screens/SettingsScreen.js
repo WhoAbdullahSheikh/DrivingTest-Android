@@ -34,7 +34,7 @@ const SettingsScreen = ({navigation}) => {
     <View style={styles.container}>
       <View style={styles.header}>
         <TouchableOpacity onPress={() => navigation.goBack()}>
-          <Icon name="arrow-left" size={24} color="#fff" />
+          <Icon name="arrow-left" size={20} color="#fff" />
         </TouchableOpacity>
         <Text style={styles.title}>{t.title}</Text>
       </View>
@@ -57,14 +57,14 @@ const styles = StyleSheet.create({
   },
   header: {
     flexDirection: 'row',
-    marginTop: 60,
+    marginTop: 30,
     alignItems: 'center',
     padding: 20,
     borderBottomWidth: 1,
     borderBottomColor: 'rgba(255,255,255,0.1)',
   },
   title: {
-    fontSize: 30,
+    fontSize: 24,
     fontWeight: 'bold',
     color: '#fff',
     marginLeft: 20,

@@ -1,0 +1,170 @@
+{
+  "id": 10,
+  "title": {
+    "en": "Documents & Equipment",
+    "sv": "Dokument och utrustning",
+    "ar": "المستندات والمعدات"
+  },
+  "rules": [
+    {
+      "id": 1001,
+      "text": {
+        "en": "Driver must carry valid license at all times",
+        "sv": "Föraren måste ha giltigt körkort vid sig till alla tider",
+        "ar": "يجب أن يحمل السائق رخصة سارية المفعول في جميع الأوقات"
+      }
+    },
+    {
+      "id": 1002,
+      "text": {
+        "en": "Vehicle registration must be current",
+        "sv": "Fordonets registrering måste vara aktuell",
+        "ar": "يجب أن يكون تسجيل المركبة حديثًا"
+      }
+    },
+    {
+      "id": 1003,
+      "text": {
+        "en": "Insurance documents must be in vehicle",
+        "sv": "Försäkringsdokument måste finnas i fordonet",
+        "ar": "يجب أن تكون وثائق التأمين في المركبة"
+      }
+    },
+    {
+      "id": 1004,
+      "text": {
+        "en": "Warning triangle must be accessible",
+        "sv": "Varningstriangel måste vara tillgänglig",
+        "ar": "يجب أن يكون مثلث التحذير في متناول اليد"
+      }
+    },
+    {
+      "id": 1005,
+      "text": {
+        "en": "Spare tire or repair kit required",
+        "sv": "Reservdäck eller reparationssats krävs",
+        "ar": "مطلوب إطار احتياطي أو مجموعة إصلاح"
+      }
+    },
+    {
+      "id": 1006,
+      "text": {
+        "en": "First aid kit recommended",
+        "sv": "Första hjälpen-kit rekommenderas",
+        "ar": "يوصى بمجموعة الإسعافات الأولية"
+      }
+    },
+    {
+      "id": 1007,
+      "text": {
+        "en": "Fire extinguisher required for commercial vehicles",
+        "sv": "Brandsläckare krävs för kommersiella fordon",
+        "ar": "مطفأة حريق مطلوبة للمركبات التجارية"
+      }
+    },
+    {
+      "id": 1008,
+      "text": {
+        "en": "Reflective vest required in some countries",
+        "sv": "Reflektiv väst krävs i vissa länder",
+        "ar": "سترة عاكسة مطلوبة في بعض البلدان"
+      }
+    },
+    {
+      "id": 1009,
+      "text": {
+        "en": "Headlamp beam deflectors for driving abroad",
+        "sv": "Strålkastardeflektorer för körning utomlands",
+        "ar": "منحرفات شعاع المصباح للقيادة في الخارج"
+      }
+    },
+    {
+      "id": 1010,
+      "text": {
+        "en": "Winter equipment mandatory in winter months",
+        "sv": "Vinterutrustning obligatorisk under vintermånaderna",
+        "ar": "معدات الشتاء إلزامية في أشهر الشتاء"
+      }
+    },
+    {
+      "id": 1011,
+      "text": {
+        "en": "Child restraint systems must meet standards",
+        "sv": "Barnbilbältessystem måste uppfylla standarder",
+        "ar": "يجب أن تفي أنظمة تثبيت الأطفال بالمعايير"
+      }
+    },
+    {
+      "id": 1012,
+      "text": {
+        "en": "Toll road payment devices where required",
+        "sv": "Betalningsanordningar för vägtullar där det krävs",
+        "ar": "أجهزة دفع رسوم الطرق حيثما يلزم"
+      }
+    },
+    {
+      "id": 1013,
+      "text": {
+        "en": "Emission test certificates where applicable",
+        "sv": "Utsläppsprovscertifikat där tillämpligt",
+        "ar": "شهادات اختبار الانبعاثات حيثما ينطبق ذلك"
+      }
+    },
+    {
+      "id": 1014,
+      "text": {
+        "en": "Vehicle must display valid inspection sticker",
+        "sv": "Fordonet måste visa giltig besiktningsklisterlapp",
+        "ar": "يجب أن تعرض المركبة ملصق تفتيش ساري المفعول"
+      }
+    },
+    {
+      "id": 1015,
+      "text": {
+        "en": "International driving permit required abroad",
+        "sv": "Internationellt körkort krävs utomlands",
+        "ar": "تصريح قيادة دولي مطلوب في الخارج"
+      }
+    },
+    {
+      "id": 1016,
+      "text": {
+        "en": "Log books required for commercial drivers",
+        "sv": "Loggböcker krävs för yrkesförare",
+        "ar": "سجلات القيادة مطلوبة للسائقين التجاريين"
+      }
+    },
+    {
+      "id": 1017,
+      "text": {
+        "en": "Hazardous materials documentation if carrying",
+        "sv": "Dokumentation för farligt gods om det transporteras",
+        "ar": "وثائق المواد الخطرة إذا كانت محمولة"
+      }
+    },
+    {
+      "id": 1018,
+      "text": {
+        "en": "Vehicle manual should be in vehicle",
+        "sv": "Fordonets manual bör finnas i fordonet",
+        "ar": "يجب أن يكون دليل المركبة في المركبة"
+      }
+    },
+    {
+      "id": 1019,
+      "text": {
+        "en": "Tire chains required in some mountain areas",
+        "sv": "Däckkedjor krävs i vissa bergsområden",
+        "ar": "سلاسل الإطارات مطلوبة في بعض المناطق الجبلية"
+      }
+    },
+    {
+      "id": 1020,
+      "text": {
+        "en": "Vehicle must carry spare fuses and bulbs",
+        "sv": "Fordonet måste ha reservsäkringar och glödlampor",
+        "ar": "يجب أن تحمل المركبة صمامات ومصابيح احتياطية"
+      }
+    }
+  ]
+}

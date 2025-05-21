@@ -1,0 +1,170 @@
+{
+  "id": 7,
+  "title": {
+    "en": "Lights & Visibility",
+    "sv": "Belysning och synlighet",
+    "ar": "الإضاءة والرؤية"
+  },
+  "rules": [
+    {
+      "id": 701,
+      "text": {
+        "en": "Headlights must be on 30 minutes before sunset to 30 minutes after sunrise",
+        "sv": "Strålkastare måste vara på 30 minuter före solnedgång till 30 minuter efter soluppgång",
+        "ar": "يجب تشغيل المصابيح الأمامية قبل 30 دقيقة من الغروب إلى 30 دقيقة بعد الشروق"
+      }
+    },
+    {
+      "id": 702,
+      "text": {
+        "en": "Fog lights may only be used in fog, snow or heavy rain",
+        "sv": "Dimljus får endast användas i dimma, snö eller kraftigt regn",
+        "ar": "لا يُسمح باستخدام مصابيح الضباب إلا في الضباب أو الثلج أو المطر الغزير"
+      }
+    },
+    {
+      "id": 703,
+      "text": {
+        "en": "High beams must be dimmed within 150m of oncoming vehicles",
+        "sv": "Helljus måste sänkas inom 150 m från mötande fordon",
+        "ar": "يجب تخفيف الأضواء العالية ضمن 150 مترًا من المركبات القادمة"
+      }
+    },
+    {
+      "id": 704,
+      "text": {
+        "en": "All exterior lights must be clean and functioning",
+        "sv": "Alla exteriöra lyktor måste vara rena och fungerande",
+        "ar": "يجب أن تكون جميع الأضواء الخارجية نظيفة وتعمل"
+      }
+    },
+    {
+      "id": 705,
+      "text": {
+        "en": "Hazard lights may only be used when stopped or in emergency",
+        "sv": "Varningsblinkers får endast användas vid stopp eller i nödsituation",
+        "ar": "لا يُسمح باستخدام أضواء الخطر إلا عند التوقف أو في حالات الطوارئ"
+      }
+    },
+    {
+      "id": 706,
+      "text": {
+        "en": "Daytime running lights must be on at all times",
+        "sv": "Dagrunningsljus måste vara på hela tiden",
+        "ar": "يجب أن تكون أضواء النهار تعمل في جميع الأوقات"
+      }
+    },
+    {
+      "id": 707,
+      "text": {
+        "en": "No aftermarket lighting that impairs other drivers",
+        "sv": "Ingen eftermarknadsbelysning som hindrar andra förare",
+        "ar": "لا توجد إضاءة ما بعد البيع تعيق السائقين الآخرين"
+      }
+    },
+    {
+      "id": 708,
+      "text": {
+        "en": "Clear snow/ice from all lights before driving",
+        "sv": "Rensa snö/is från alla lyktor innan körning",
+        "ar": "أزل الثلج/الجليد من جميع الأضواء قبل القيادة"
+      }
+    },
+    {
+      "id": 709,
+      "text": {
+        "en": "Use parking lights when parked on roadways at night",
+        "sv": "Använd parkeringsljus när du parkerat på vägbanor på natten",
+        "ar": "استخدم أضواء الوقوف عند التوقف على الطرق ليلاً"
+      }
+    },
+    {
+      "id": 710,
+      "text": {
+        "en": "Turn signals required 30m before turning",
+        "sv": "Blinkers krävs 30 m före sväng",
+        "ar": "إشارات الانعطاف مطلوبة قبل 30 مترًا من الانعطاف"
+      }
+    },
+    {
+      "id": 711,
+      "text": {
+        "en": "Check lights monthly for proper operation",
+        "sv": "Kontrollera lyktor varje månad för korrekt funktion",
+        "ar": "تحقق من الأضواء شهريًا للتأكد من عملها الصحيح"
+      }
+    },
+    {
+      "id": 712,
+      "text": {
+        "en": "No blue or red lights visible from front",
+        "sv": "Inga blå eller röda lyktor synliga framifrån",
+        "ar": "لا توجد أضواء زرقاء أو حمراء مرئية من الأمام"
+      }
+    },
+    {
+      "id": 713,
+      "text": {
+        "en": "Reverse lights must activate only in reverse gear",
+        "sv": "Backljus måste aktiveras endast i backläge",
+        "ar": "يجب أن تعمل أضواء الرجوع للخلف فقط في وضع الرجوع"
+      }
+    },
+    {
+      "id": 714,
+      "text": {
+        "en": "Headlight alignment must not blind other drivers",
+        "sv": "Strålkastarinriktning får inte blända andra förare",
+        "ar": "يجب ألا تعمي محاذاة المصابيح الأمامية السائقين الآخرين"
+      }
+    },
+    {
+      "id": 715,
+      "text": {
+        "en": "Use low beams in urban areas",
+        "sv": "Använd halvljus i tättbebyggt område",
+        "ar": "استخدم الأضواء المنخفضة في المناطق الحضرية"
+      }
+    },
+    {
+      "id": 716,
+      "text": {
+        "en": "All vehicles must have working brake lights",
+        "sv": "Alla fordon måste ha fungerande bromsljus",
+        "ar": "يجب أن تحتوي جميع المركبات على أضواء فرملة تعمل"
+      }
+    },
+    {
+      "id": 717,
+      "text": {
+        "en": "No decorative lighting that resembles emergency vehicles",
+        "sv": "Ingen dekorativ belysning som liknar utryckningsfordon",
+        "ar": "لا توجد إضاءة زخرفية تشبه مركبات الطوارئ"
+      }
+    },
+    {
+      "id": 718,
+      "text": {
+        "en": "Use headlights in tunnels regardless of lighting",
+        "sv": "Använd strålkastare i tunnlar oavsett belysning",
+        "ar": "استخدم المصابيح الأمامية في الأنفاق بغض النظر عن الإضاءة"
+      }
+    },
+    {
+      "id": 719,
+      "text": {
+        "en": "Replace headlight bulbs in pairs",
+        "sv": "Byt strålkastarlampor i par",
+        "ar": "استبدل مصابيح المصابيح الأمامية في أزواج"
+      }
+    },
+    {
+      "id": 720,
+      "text": {
+        "en": "No flashing lights except for turn signals or hazards",
+        "sv": "Inga blinkande lyktor förutom blinkers eller varningsblinkers",
+        "ar": "لا توجد أضواء وامضة باستثناء إشارات الانعطاف أو أضواء الخطر"
+      }
+    }
+  ]
+}
