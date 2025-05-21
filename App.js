@@ -33,7 +33,11 @@ const App = () => {
     <SafeAreaProvider>
       <ThemeProvider theme={theme}>
         <LanguageProvider>
-          <StatusBar barStyle="light-content" backgroundColor="#3F51B5" />
+          <StatusBar 
+            barStyle="light-content" 
+            backgroundColor="transparent"
+            translucent={true}
+          />
           <AppNavigator />
         </LanguageProvider>
       </ThemeProvider>

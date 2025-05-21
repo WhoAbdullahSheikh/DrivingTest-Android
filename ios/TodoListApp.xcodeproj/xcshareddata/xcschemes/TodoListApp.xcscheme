@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "TodoListApp.app"
-               BlueprintName = "TodoListApp"
-               ReferencedContainer = "container:TodoListApp.xcodeproj">
+               BuildableName = "DrivingTest.app"
+               BlueprintName = "DrivingTest"
+               ReferencedContainer = "container:DrivingTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "TodoListAppTests.xctest"
-               BlueprintName = "TodoListAppTests"
-               ReferencedContainer = "container:TodoListApp.xcodeproj">
+               BuildableName = "DrivingTestTests.xctest"
+               BlueprintName = "DrivingTestTests"
+               ReferencedContainer = "container:DrivingTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "TodoListApp.app"
-            BlueprintName = "TodoListApp"
-            ReferencedContainer = "container:TodoListApp.xcodeproj">
+            BuildableName = "DrivingTest.app"
+            BlueprintName = "DrivingTest"
+            ReferencedContainer = "container:DrivingTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "TodoListApp.app"
-            BlueprintName = "TodoListApp"
-            ReferencedContainer = "container:TodoListApp.xcodeproj">
+            BuildableName = "DrivingTest.app"
+            BlueprintName = "DrivingTest"
+            ReferencedContainer = "container:DrivingTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
