@@ -1,0 +1,529 @@
+
+[
+    {
+      "id": 1,
+      "question": "Who has priority at an unmarked intersection in Sweden?",
+      "options": [
+        "The vehicle on the left",
+        "The vehicle on the right",
+        "The faster vehicle",
+        "The larger vehicle"
+      ],
+      "category": "General Traffic Regulations"
+    },
+    {
+      "id": 2,
+      "question": "True or False: You must always yield to trams in Sweden.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "category": "General Traffic Regulations"
+    },
+    {
+      "id": 3,
+      "question": "When overtaking a bicycle, what's the minimum safe distance?",
+      "options": [
+        "0.5 meters",
+        "1 meter",
+        "1.5 meters",
+        "2 meters"
+      ],
+      "category": "General Traffic Regulations"
+    },
+    {
+      "id": 4,
+      "question": "What should you do when approaching a zebra crossing without traffic lights?",
+      "options": [
+        "Speed up if no pedestrians are visible",
+        "Slow down and prepare to stop",
+        "Honk to alert pedestrians",
+        "Ignore it unless someone is crossing"
+      ],
+      "category": "General Traffic Regulations"
+    },
+    {
+      "id": 5,
+      "question": "If an emergency vehicle approaches with flashing lights, you must:",
+      "options": [
+        "Speed up to clear the lane",
+        "Pull over to the right and stop if needed",
+        "Flash your headlights in response",
+        "Continue driving normally"
+      ],
+      "category": "General Traffic Regulations"
+    },
+    {
+      "id": 6,
+      "question": "What does a solid white line between lanes mean?",
+      "options": [
+        "Overtaking allowed",
+        "Lane changes prohibited",
+        "Bus lane",
+        "Roadwork zone"
+      ],
+      "category": "General Traffic Regulations"
+    },
+    {
+      "id": 7,
+      "question": "True or False: U-turns are always permitted unless a sign prohibits them.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "category": "General Traffic Regulations"
+    },
+    {
+      "id": 8,
+      "question": "When must you use your horn?",
+      "options": [
+        "To greet other drivers",
+        "Only to prevent an accident",
+        "In tunnels for safety",
+        "When overtaking"
+      ],
+      "category": "General Traffic Regulations"
+    },
+    {
+      "id": 9,
+      "question": "Who has priority in a roundabout?",
+      "options": [
+        "Vehicles already in the roundabout",
+        "Vehicles entering the roundabout",
+        "The larger vehicle",
+        "The faster vehicle"
+      ],
+      "category": "General Traffic Regulations"
+    },
+    {
+      "id": 10,
+      "question": "What should you do if your car starts skidding on ice?",
+      "options": [
+        "Steer sharply in the opposite direction",
+        "Brake hard",
+        "Ease off the accelerator and steer gently",
+        "Accelerate to regain control"
+      ],
+      "category": "General Traffic Regulations"
+    },
+    {
+      "id": 11,
+      "question": "What's the default speed limit in urban areas?",
+      "options": [
+        "30 km/h",
+        "50 km/h",
+        "70 km/h",
+        "90 km/h"
+      ],
+      "category": "Speed Limits"
+    },
+    {
+      "id": 12,
+      "question": "True or False: The speed limit on highways is always 120 km/h.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "category": "Speed Limits"
+    },
+    {
+      "id": 13,
+      "question": "What's the speed limit when towing a trailer on a rural road?",
+      "options": [
+        "70 km/h",
+        "80 km/h",
+        "90 km/h",
+        "100 km/h"
+      ],
+      "category": "Speed Limits"
+    },
+    {
+      "id": 14,
+      "question": "In a \"Gångfartsområde\" (walking pace zone), the speed limit is:",
+      "options": [
+        "20 km/h",
+        "30 km/h",
+        "40 km/h",
+        "50 km/h"
+      ],
+      "category": "Speed Limits"
+    },
+    {
+      "id": 15,
+      "question": "When must you reduce speed below the posted limit?",
+      "options": [
+        "Only in rain",
+        "When road conditions demand it (e.g., ice, fog)",
+        "Never",
+        "Only at night"
+      ],
+      "category": "Speed Limits"
+    },
+    {
+      "id": 16,
+      "question": "What's the speed limit in a school zone during active hours?",
+      "options": [
+        "30 km/h",
+        "40 km/h",
+        "50 km/h",
+        "60 km/h"
+      ],
+      "category": "Speed Limits"
+    },
+    {
+      "id": 17,
+      "question": "True or False: You can exceed the speed limit when overtaking.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "category": "Speed Limits"
+    },
+    {
+      "id": 18,
+      "question": "What's the penalty for speeding 30 km/h over the limit?",
+      "options": [
+        "Warning",
+        "Fine + license suspension",
+        "Only a fine",
+        "No penalty"
+      ],
+      "category": "Speed Limits"
+    },
+    {
+      "id": 19,
+      "question": "What does a \"30-zone\" sign indicate?",
+      "options": [
+        "Minimum speed",
+        "Maximum speed",
+        "Trucks prohibited",
+        "Pedestrian priority"
+      ],
+      "category": "Speed Limits"
+    },
+    {
+      "id": 20,
+      "question": "When are winter speed limits enforced?",
+      "options": [
+        "December--March",
+        "Only during snowfall",
+        "Year-round",
+        "Never"
+      ],
+      "category": "Speed Limits"
+    },
+    {
+      "id": 21,
+      "question": "A red triangle with a moose symbol warns of:",
+      "options": [
+        "Roadworks",
+        "Wildlife crossing",
+        "Steep hill",
+        "Slippery road"
+      ],
+      "category": "Traffic Signs & Signals"
+    },
+    {
+      "id": 22,
+      "question": "True or False: A flashing yellow light means \"stop.\"",
+      "options": [
+        "True",
+        "False"
+      ],
+      "category": "Traffic Signs & Signals"
+    },
+    {
+      "id": 23,
+      "question": "A blue circle with a white arrow means:",
+      "options": [
+        "Mandatory direction",
+        "One-way street",
+        "Roundabout ahead",
+        "Pedestrian zone"
+      ],
+      "category": "Traffic Signs & Signals"
+    },
+    {
+      "id": 24,
+      "question": "What does a white diagonal stripe in a red circle indicate?",
+      "options": [
+        "No stopping",
+        "No entry",
+        "No overtaking",
+        "No parking"
+      ],
+      "category": "Traffic Signs & Signals"
+    },
+    {
+      "id": 25,
+      "question": "A sign with a bicycle on blue background means:",
+      "options": [
+        "Bicycle lane",
+        "Bicycles prohibited",
+        "Shared pedestrian path",
+        "Bicycle repair station"
+      ],
+      "category": "Traffic Signs & Signals"
+    },
+    {
+      "id": 26,
+      "question": "True or False: A green arrow at a traffic light overrides a red light.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "category": "Traffic Signs & Signals"
+    },
+    {
+      "id": 27,
+      "question": "What does a yellow diamond sign indicate?",
+      "options": [
+        "Priority road",
+        "Yield ahead",
+        "School zone",
+        "No passing"
+      ],
+      "category": "Traffic Signs & Signals"
+    },
+    {
+      "id": 28,
+      "question": "A sign with a red circle and a black truck means:",
+      "options": [
+        "Trucks have priority",
+        "Trucks prohibited",
+        "Truck parking",
+        "Weigh station ahead"
+      ],
+      "category": "Traffic Signs & Signals"
+    },
+    {
+      "id": 29,
+      "question": "What does a broken white line on the road mean?",
+      "options": [
+        "No lane changes",
+        "Lane changes allowed",
+        "Bus lane",
+        "Road edge"
+      ],
+      "category": "Traffic Signs & Signals"
+    },
+    {
+      "id": 30,
+      "question": "True or False: A \"STOP\" sign requires a full stop even if no traffic is visible.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "category": "Traffic Signs & Signals"
+    },
+    {
+      "id": 31,
+      "question": "In Stockholm's congestion charge zone, you must:",
+      "options": [
+        "Pay a fee",
+        "Drive only at night",
+        "Use an electric vehicle",
+        "Avoid weekends"
+      ],
+      "category": "Area-Specific Laws"
+    },
+    {
+      "id": 32,
+      "question": "True or False: Buses always have priority in cities.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "category": "Area-Specific Laws"
+    },
+    {
+      "id": 33,
+      "question": "What's the rule for cyclists on sidewalks?",
+      "options": [
+        "Always allowed",
+        "Never allowed",
+        "Allowed if marked",
+        "Allowed at night"
+      ],
+      "category": "Area-Specific Laws"
+    },
+    {
+      "id": 34,
+      "question": "What does a \"30-zone\" sign in a residential area mean?",
+      "options": [
+        "30 km/h limit",
+        "30-minute parking",
+        "30% gradient",
+        "30-ton weight limit"
+      ],
+      "category": "Area-Specific Laws"
+    },
+    {
+      "id": 35,
+      "question": "On rural roads, what should you do near livestock?",
+      "options": [
+        "Honk to scare them",
+        "Stop if necessary",
+        "Speed up",
+        "Ignore them"
+      ],
+      "category": "Area-Specific Laws"
+    },
+    {
+      "id": 36,
+      "question": "On highways, what is the minimum speed limit unless otherwise posted?",
+      "options": [
+        "40 km/h",
+        "60 km/h",
+        "80 km/h",
+        "There is no minimum"
+      ],
+      "category": "Area-Specific Laws"
+    },
+    {
+      "id": 37,
+      "question": "True or False: It's legal to use the hard shoulder for overtaking on highways.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "category": "Area-Specific Laws"
+    },
+    {
+      "id": 38,
+      "question": "What vehicles are prohibited on Swedish motorways?",
+      "options": [
+        "Bicycles and mopeds",
+        "Tractors",
+        "Both A and B",
+        "None"
+      ],
+      "category": "Area-Specific Laws"
+    },
+    {
+      "id": 39,
+      "question": "In a residential area with playing children, you should:",
+      "options": [
+        "Honk to warn them",
+        "Drive at 30 km/h or slower",
+        "Ignore them if they're on the sidewalk",
+        "Flash your headlights"
+      ],
+      "category": "Area-Specific Laws"
+    },
+    {
+      "id": 40,
+      "question": "What does a \"Förbud mot motorfordon\" (red circle with a car) sign mean?",
+      "options": [
+        "No cars allowed",
+        "No parking",
+        "No honking",
+        "No U-turns"
+      ],
+      "category": "Area-Specific Laws"
+    },
+    {
+      "id": 41,
+      "question": "When must winter tires be used in Sweden?",
+      "options": [
+        "December 1 -- March 31",
+        "Whenever snow is present",
+        "November 1 -- April 15",
+        "Year-round"
+      ],
+      "category": "Vehicle-Specific Rules"
+    },
+    {
+      "id": 42,
+      "question": "True or False: Studded tires are allowed year-round.",
+      "options": [
+        "True",
+        "False (Permitted only Oct--Apr)"
+      ],
+      "category": "Vehicle-Specific Rules"
+    },
+    {
+      "id": 43,
+      "question": "What's the minimum tread depth for summer tires?",
+      "options": [
+        "1.0 mm",
+        "1.6 mm",
+        "2.5 mm",
+        "3.0 mm"
+      ],
+      "category": "Vehicle-Specific Rules"
+    },
+    {
+      "id": 44,
+      "question": "When towing a trailer, what must be functional?",
+      "options": [
+        "Brakes and lights",
+        "Only lights",
+        "Only brakes",
+        "Nothing extra"
+      ],
+      "category": "Vehicle-Specific Rules"
+    },
+    {
+      "id": 45,
+      "question": "What's required for mopeds (Class II, 45 km/h)?",
+      "options": [
+        "License plate and helmet",
+        "Only a helmet",
+        "Nothing",
+        "Reflective vest"
+      ],
+      "category": "Vehicle-Specific Rules"
+    },
+    {
+      "id": 46,
+      "question": "True or False: Daytime running lights are mandatory for cars.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "category": "Vehicle-Specific Rules"
+    },
+    {
+      "id": 47,
+      "question": "What's the maximum width for a bicycle trailer on roads?",
+      "options": [
+        "1.0 meter",
+        "1.2 meters",
+        "1.5 meters",
+        "No limit"
+      ],
+      "category": "Vehicle-Specific Rules"
+    },
+    {
+      "id": 48,
+      "question": "When must you use dipped headlights?",
+      "options": [
+        "Only at night",
+        "In tunnels and poor visibility",
+        "Never",
+        "Always, even in daylight"
+      ],
+      "category": "Vehicle-Specific Rules"
+    },
+    {
+      "id": 49,
+      "question": "What's the penalty for driving without winter tires in December?",
+      "options": [
+        "Warning",
+        "1,500 SEK fine",
+        "License suspension",
+        "No penalty"
+      ],
+      "category": "Vehicle-Specific Rules"
+    },
+    {
+      "id": 50,
+      "question": "True or False: Electric scooters (e-scooters) are treated like bicycles under Swedish law.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "category": "Vehicle-Specific Rules"
+    }
+  ]

@@ -1,0 +1,504 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Speed Limits",
+        "sv": "Hastighetsbegränsningar",
+        "ar": "حدود السرعة"
+      },
+      "rules": [
+        {
+          "id": 101,
+          "text": {
+            "en": "50 km/h in urban areas unless otherwise signed",
+            "sv": "50 km/h i tättbebyggt område om inte annat anges",
+            "ar": "50 كم/س في المناطق الحضرية ما لم يُشار إلى خلاف ذلك"
+          }
+        },
+        {
+          "id": 102,
+          "text": {
+            "en": "70 km/h on rural roads unless otherwise signed",
+            "sv": "70 km/h på landsvägar om inte annat anges",
+            "ar": "70 كم/س على الطرق الريفية ما لم يُشار إلى خلاف ذلك"
+          }
+        },
+        {
+          "id": 103,
+          "text": {
+            "en": "100 km/h on highways (summer), 80 km/h (winter)",
+            "sv": "100 km/h på motortrafikled (sommar), 80 km/h (vinter)",
+            "ar": "100 كم/س على الطرق السريعة (الصيف)، 80 كم/س (الشتاء)"
+          }
+        },
+        {
+          "id": 104,
+          "text": {
+            "en": "120 km/h maximum on motorways (summer), 100 km/h (winter)",
+            "sv": "120 km/h max på motorväg (sommar), 100 km/h (vinter)",
+            "ar": "120 كم/س كحد أقصى على الطرق السريعة (الصيف)، 100 كم/س (الشتاء)"
+          }
+        },
+        {
+          "id": 105,
+          "text": {
+            "en": "30 km/h in school zones during school hours",
+            "sv": "30 km/h i skolzoner under skoltid",
+            "ar": "30 كم/س في مناطق المدارس خلال ساعات الدراسة"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Right of Way",
+        "sv": "Väjningsplikt",
+        "ar": "حق الأولوية"
+      },
+      "rules": [
+        {
+          "id": 201,
+          "text": {
+            "en": "Yield to traffic from the right at unmarked intersections",
+            "sv": "Ge väg åt höger vid omarkerade korsningar",
+            "ar": "أفسح الطريق للمركبات القادمة من اليمين عند التقاطعات غير المعلّمة"
+          }
+        },
+        {
+          "id": 202,
+          "text": {
+            "en": "Yield to all traffic when entering a roundabout",
+            "sv": "Ge väg för all trafik när du kör in i en rondell",
+            "ar": "أفسح الطريق لجميع المركبات عند الدخول في دوار مروري"
+          }
+        },
+        {
+          "id": 203,
+          "text": {
+            "en": "Yield to pedestrians at crosswalks",
+            "sv": "Ge väg för fotgängare vid övergångsställen",
+            "ar": "أفسح الطريق للمشاة عند معابر المشاة"
+          }
+        },
+        {
+          "id": 204,
+          "text": {
+            "en": "Yield to emergency vehicles with flashing lights/sirens",
+            "sv": "Ge väg för utryckningsfordon med blåljus/siren",
+            "ar": "أفسح الطريق لمركبات الطوارئ ذات الأضواء الوامضة/الصفارات"
+          }
+        },
+        {
+          "id": 205,
+          "text": {
+            "en": "Yield to buses leaving bus stops in urban areas",
+            "sv": "Ge väg för bussar som lämnar hållplatser i tättbebyggt område",
+            "ar": "أفسح الطريق للحافلات المغادرة لمواقف الحافلات في المناطق الحضرية"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Alcohol & Drugs",
+        "sv": "Alkohol och droger",
+        "ar": "الكحول والمخدرات"
+      },
+      "rules": [
+        {
+          "id": 301,
+          "text": {
+            "en": "0.2‰ blood alcohol limit for regular drivers",
+            "sv": "0.2 promille gräns för vanliga förare",
+            "ar": "حد الكحول في الدم 0.2‰ للسائقين العاديين"
+          }
+        },
+        {
+          "id": 302,
+          "text": {
+            "en": "Zero tolerance (0.0‰) for professional drivers",
+            "sv": "Nolltolerans (0.0 promille) för yrkesförare",
+            "ar": "عدم التسامح مطلقًا (0.0‰) للسائقين المحترفين"
+          }
+        },
+        {
+          "id": 303,
+          "text": {
+            "en": "Zero tolerance (0.0‰) for drivers under 21",
+            "sv": "Nolltolerans (0.0 promille) för förare under 21",
+            "ar": "عدم التسامح مطلقًا (0.0‰) للسائقين تحت 21 سنة"
+          }
+        },
+        {
+          "id": 304,
+          "text": {
+            "en": "Illegal to drive under influence of any narcotics",
+            "sv": "Olaga att köra under påverkan av narkotika",
+            "ar": "القيادة تحت تأثير أي نوع من المخدرات غير قانونية"
+          }
+        },
+        {
+          "id": 305,
+          "text": {
+            "en": "Police can require breathalyzer test without suspicion",
+            "sv": "Polisen kan kräva alkotest utan misstanke",
+            "ar": "يمكن للشرطة طلب اختبار التنفس للكحول دون اشتباه"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Winter Driving",
+        "sv": "Vinterkörning",
+        "ar": "القيادة الشتوية"
+      },
+      "rules": [
+        {
+          "id": 401,
+          "text": {
+            "en": "Winter tires mandatory December 1 - March 31",
+            "sv": "Vinterdäck obligatoriskt 1 december - 31 mars",
+            "ar": "إطارات الشتاء إلزامية من 1 ديسمبر إلى 31 مارس"
+          }
+        },
+        {
+          "id": 402,
+          "text": {
+            "en": "Studded tires allowed October 1 - April 15",
+            "sv": "Piggdäck tillåtet 1 oktober - 15 april",
+            "ar": "الإطارات المدببة مسموحة من 1 أكتوبر إلى 15 أبريل"
+          }
+        },
+        {
+          "id": 403,
+          "text": {
+            "en": "Clear all snow/ice from windows before driving",
+            "sv": "Rensa all snö/is från rutorna innan körning",
+            "ar": "أزل كل الثلج/الجليد من النوافذ قبل القيادة"
+          }
+        },
+        {
+          "id": 404,
+          "text": {
+            "en": "Headlights must be on at all times in winter",
+            "sv": "Strålkastare måste vara på hela tiden på vintern",
+            "ar": "يجب أن تكون المصابيح الأمامية تعمل في جميع الأوقات في الشتاء"
+          }
+        },
+        {
+          "id": 405,
+          "text": {
+            "en": "Reduce speed according to road conditions",
+            "sv": "Sänk hastigheten efter väglaget",
+            "ar": "خفض السرعة وفقًا لحالة الطريق"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Mobile Phones",
+        "sv": "Mobiltelefoner",
+        "ar": "الهواتف المحمولة"
+      },
+      "rules": [
+        {
+          "id": 501,
+          "text": {
+            "en": "Handheld phone use prohibited while driving",
+            "sv": "Handhållen telefonförbud vid körning",
+            "ar": "يمنع استخدام الهاتف المحمول أثناء القيادة"
+          }
+        },
+        {
+          "id": 502,
+          "text": {
+            "en": "Hands-free devices permitted",
+            "sv": "Händfria enheter tillåtna",
+            "ar": "الأجهزة التي لا تستخدم اليدين مسموح بها"
+          }
+        },
+        {
+          "id": 503,
+          "text": {
+            "en": "No texting/emailing while driving",
+            "sv": "Ingen SMS/e-post under körning",
+            "ar": "لا للرسائل النصية/البريد الإلكتروني أثناء القيادة"
+          }
+        },
+        {
+          "id": 504,
+          "text": {
+            "en": "Park to use navigation apps on handheld devices",
+            "sv": "Parkera för att använda navigationsappar på handhållna enheter",
+            "ar": "يجب الوقوف لاستخدام تطبيقات الملاحة على الأجهزة المحمولة"
+          }
+        },
+        {
+          "id": 505,
+          "text": {
+            "en": "Emergency calls permitted in genuine emergencies",
+            "sv": "Nödringning tillåten vid verkliga nödsituationer",
+            "ar": "مكالمات الطوارئ مسموح بها في حالات الطوارئ الحقيقية"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Child Safety",
+        "sv": "Barnsäkerhet",
+        "ar": "سلامة الأطفال"
+      },
+      "rules": [
+        {
+          "id": 601,
+          "text": {
+            "en": "Children under 135cm must use child restraint",
+            "sv": "Barn under 135 cm måste använda barnbilbälte",
+            "ar": "يجب على الأطفال أقل من 135 سم استخدام مقاعد الأطفال"
+          }
+        },
+        {
+          "id": 602,
+          "text": {
+            "en": "Children under 3 cannot travel without proper restraint",
+            "sv": "Barn under 3 år får inte åka utan lämpligt bilbälte",
+            "ar": "الأطفال دون 3 سنوات لا يمكنهم السفر بدون نظام تثبيت مناسب"
+          }
+        },
+        {
+          "id": 603,
+          "text": {
+            "en": "Rear-facing seat required for infants under 15 months",
+            "sv": "Bakåtvänd bilbarnstol krävs för spädbarn under 15 månader",
+            "ar": "مقعد مواجه للخلف مطلوب للرضع أقل من 15 شهرًا"
+          }
+        },
+        {
+          "id": 604,
+          "text": {
+            "en": "Children under 150cm cannot sit in front seat with active airbag",
+            "sv": "Barn under 150 cm får inte sitta fram med aktiv krockkudde",
+            "ar": "الأطفال أقل من 150 سم لا يمكنهم الجلوس في المقعد الأمامي مع وجود وسادة هوائية نشطة"
+          }
+        },
+        {
+          "id": 605,
+          "text": {
+            "en": "Never leave children unattended in vehicles",
+            "sv": "Lämna aldrig barn utan uppsikt i fordon",
+            "ar": "لا تترك الأطفال دون مراقبة في المركبات"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Lights & Visibility",
+        "sv": "Belysning och synlighet",
+        "ar": "الإضاءة والرؤية"
+      },
+      "rules": [
+        {
+          "id": 701,
+          "text": {
+            "en": "Headlights must be on at all times, day and night",
+            "sv": "Strålkastare måste vara på hela tiden, dag som natt",
+            "ar": "يجب أن تكون المصابيح الأمامية تعمل في جميع الأوقات، ليلاً ونهارًا"
+          }
+        },
+        {
+          "id": 702,
+          "text": {
+            "en": "Use fog lights only in poor visibility conditions",
+            "sv": "Använd dimljus endast vid dålig sikt",
+            "ar": "استخدم مصابيح الضباب فقط في ظروف الرؤية السيئة"
+          }
+        },
+        {
+          "id": 703,
+          "text": {
+            "en": "Dipped headlights required when meeting other vehicles",
+            "sv": "Halvljus krävs vid möte med andra fordon",
+            "ar": "الأضواء المنخفضة مطلوبة عند مقابلة مركبات أخرى"
+          }
+        },
+        {
+          "id": 704,
+          "text": {
+            "en": "Clean lights and reflectors regularly in winter",
+            "sv": "Rengör lyktor och reflexer regelbundet på vintern",
+            "ar": "نظف المصابيح والعواكس بانتظام في الشتاء"
+          }
+        },
+        {
+          "id": 705,
+          "text": {
+            "en": "Use warning triangle when stopped on roadway",
+            "sv": "Använd varningstriangel vid stopp på körbana",
+            "ar": "استخدم مثلث التحذير عند التوقف على الطريق"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "Parking",
+        "sv": "Parkering",
+        "ar": "وقوف السيارات"
+      },
+      "rules": [
+        {
+          "id": 801,
+          "text": {
+            "en": "No parking within 10m of crosswalk",
+            "sv": "Förbud mot parkering inom 10 m från övergångsställe",
+            "ar": "ممنوع الوقوف ضمن 10 أمتار من ممر المشاة"
+          }
+        },
+        {
+          "id": 802,
+          "text": {
+            "en": "No parking within 30m of traffic light",
+            "sv": "Förbud mot parkering inom 30 m från trafiksignal",
+            "ar": "ممنوع الوقوف ضمن 30 مترًا من إشارة المرور"
+          }
+        },
+        {
+          "id": 803,
+          "text": {
+            "en": "Winter parking bans in some areas (signposted)",
+            "sv": "Vinterparkeringsförbud i vissa områden (skyltat)",
+            "ar": "حظر وقوف السيارات في الشتاء في بعض المناطق (معلن)"
+          }
+        },
+        {
+          "id": 804,
+          "text": {
+            "en": "Disabled parking only with valid permit displayed",
+            "sv": "Handikapparkering endast med giltigt tillstånd synligt",
+            "ar": "مواقف المعاقين فقط بتصريح ساري موضح"
+          }
+        },
+        {
+          "id": 805,
+          "text": {
+            "en": "No parking on bicycle paths or sidewalks",
+            "sv": "Förbud mot parkering på cykelbanor eller trottoarer",
+            "ar": "ممنوع الوقوف على مسارات الدراجات أو الأرصفة"
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": {
+        "en": "Overtaking",
+        "sv": "Omkörning",
+        "ar": "التجاوز"
+      },
+      "rules": [
+        {
+          "id": 901,
+          "text": {
+            "en": "Overtake only on the left side",
+            "sv": "Kör om endast på vänster sida",
+            "ar": "تجاوز فقط من الجانب الأيسر"
+          }
+        },
+        {
+          "id": 902,
+          "text": {
+            "en": "No overtaking at pedestrian crossings",
+            "sv": "Förbud mot omkörning vid övergångsställen",
+            "ar": "ممنوع التجاوز عند معابر المشاة"
+          }
+        },
+        {
+          "id": 903,
+          "text": {
+            "en": "Maintain 1.5m distance when passing cyclists",
+            "sv": "Håll 1,5 m avstånd när du passerar cyklister",
+            "ar": "حافظ على مسافة 1.5 متر عند تجاوز راكبي الدراجات"
+          }
+        },
+        {
+          "id": 904,
+          "text": {
+            "en": "No overtaking where visibility is limited",
+            "sv": "Förbud mot omkörning där sikt är begränsad",
+            "ar": "ممنوع التجاوز حيث تكون الرؤية محدودة"
+          }
+        },
+        {
+          "id": 905,
+          "text": {
+            "en": "Use turn signals when beginning and ending overtaking",
+            "sv": "Använd blinkers när du påbörjar och avslutar omkörning",
+            "ar": "استخدم إشارات الانعطاف عند بدء وإنهاء التجاوز"
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": {
+        "en": "Documents & Equipment",
+        "sv": "Dokument och utrustning",
+        "ar": "المستندات والمعدات"
+      },
+      "rules": [
+        {
+          "id": 1001,
+          "text": {
+            "en": "Always carry valid driver's license",
+            "sv": "Ha alltid giltigt körkort med dig",
+            "ar": "احمل دائمًا رخصة قيادة سارية المفعول"
+          }
+        },
+        {
+          "id": 1002,
+          "text": {
+            "en": "Vehicle registration certificate must be in vehicle",
+            "sv": "Fordonets registreringsbevis måste finnas i fordonet",
+            "ar": "يجب أن تكون شهادة تسجيل المركبة موجودة في المركبة"
+          }
+        },
+        {
+          "id": 1003,
+          "text": {
+            "en": "Warning triangle compulsory in all vehicles",
+            "sv": "Varningstriangel obligatorisk i alla fordon",
+            "ar": "مثلث التحذير إلزامي في جميع المركبات"
+          }
+        },
+        {
+          "id": 1004,
+          "text": {
+            "en": "First aid kit recommended but not compulsory",
+            "sv": "Första hjälpen-kit rekommenderas men är inte obligatoriskt",
+            "ar": "مجموعة الإسعافات الأولية موصى بها ولكنها غير إلزامية"
+          }
+        },
+        {
+          "id": 1005,
+          "text": {
+            "en": "Winter equipment (scraper/brush) recommended in winter",
+            "sv": "Vinterutrustning (skrapa/borste) rekommenderas på vintern",
+            "ar": "يوصى بمعدات الشتاء (مكشطة/فرشاة) في الشتاء"
+          }
+        }
+      ]
+    }
+  ]
+}

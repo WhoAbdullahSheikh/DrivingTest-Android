@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "question": "Who has priority at an unmarked intersection in Sweden?",
+    "options": [
+      "The vehicle on the left",
+      "The vehicle on the right",
+      "The faster vehicle",
+      "The larger vehicle"
+    ],
+    "category": "General Traffic Regulations",
+    "correctAnswerIndex": 1  
+  },
+  {
+    "id": 2,
+    "question": "True or False: You must always yield to trams in Sweden.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "category": "General Traffic Regulations",
+    "correctAnswerIndex": 2  
+  },
+  {
+    "id": 3,
+    "question": "When overtaking a bicycle, what's the minimum safe distance?",
+    "options": [
+      "0.5 meters",
+      "1 meter",
+      "1.5 meters",
+      "2 meters"
+    ],
+    "category": "General Traffic Regulations",
+    "correctAnswerIndex": 3 
+  }
+]
