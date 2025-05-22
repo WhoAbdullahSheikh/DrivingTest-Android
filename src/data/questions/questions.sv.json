@@ -8,6 +8,7 @@
       "Det snabbare fordonet",
       "Det större fordonet"
     ],
+    "correctAnswerIndex": 1,
     "category": "Allmänna trafikregler"
   },
   {
@@ -17,6 +18,7 @@
       "Sant",
       "Falskt"
     ],
+    "correctAnswerIndex": 0,
     "category": "Allmänna trafikregler"
   },
   {
@@ -28,6 +30,7 @@
       "1,5 meter",
       "2 meter"
     ],
+    "correctAnswerIndex": 2,
     "category": "Allmänna trafikregler"
   },
   {
@@ -39,6 +42,7 @@
       "Tuta för att varna fotgängare",
       "Ignorera det om ingen korsar"
     ],
+    "correctAnswerIndex": 1,
     "category": "Allmänna trafikregler"
   },
   {
@@ -50,6 +54,7 @@
       "Blinka med helljuset som svar",
       "Fortsätta köra som vanligt"
     ],
+    "correctAnswerIndex": 1,
     "category": "Allmänna trafikregler"
   },
   {
@@ -59,8 +64,9 @@
       "Omkörning tillåten",
       "Filbyten förbjudna",
       "Bussfil",
-      "Vägarbetszon"
+      "Vägarbetzon"
     ],
+    "correctAnswerIndex": 1,
     "category": "Allmänna trafikregler"
   },
   {
@@ -70,6 +76,7 @@
       "Sant",
       "Falskt"
     ],
+    "correctAnswerIndex": 1,
     "category": "Allmänna trafikregler"
   },
   {
@@ -81,6 +88,7 @@
       "I tunnlar för säkerhet",
       "Vid omkörning"
     ],
+    "correctAnswerIndex": 1,
     "category": "Allmänna trafikregler"
   },
   {
@@ -92,6 +100,7 @@
       "Det större fordonet",
       "Det snabbare fordonet"
     ],
+    "correctAnswerIndex": 0,
     "category": "Allmänna trafikregler"
   },
   {
@@ -103,6 +112,7 @@
       "Släpp på gaspedalen och ratta försiktigt",
       "Öka farten för att återfå kontroll"
     ],
+    "correctAnswerIndex": 2,
     "category": "Allmänna trafikregler"
   },
   {
@@ -114,6 +124,7 @@
       "70 km/h",
       "90 km/h"
     ],
+    "correctAnswerIndex": 1,
     "category": "Hastighetsbegränsningar"
   },
   {
@@ -123,6 +134,7 @@
       "Sant",
       "Falskt"
     ],
+    "correctAnswerIndex": 1,
     "category": "Hastighetsbegränsningar"
   },
   {
@@ -134,6 +146,7 @@
       "90 km/h",
       "100 km/h"
     ],
+    "correctAnswerIndex": 1,
     "category": "Hastighetsbegränsningar"
   },
   {
@@ -145,6 +158,7 @@
       "40 km/h",
       "50 km/h"
     ],
+    "correctAnswerIndex": 1,
     "category": "Hastighetsbegränsningar"
   },
   {
@@ -156,6 +170,7 @@
       "Aldrig",
       "Endast på natten"
     ],
+    "correctAnswerIndex": 1,
     "category": "Hastighetsbegränsningar"
   },
   {
@@ -167,6 +182,7 @@
       "50 km/h",
       "60 km/h"
     ],
+    "correctAnswerIndex": 0,
     "category": "Hastighetsbegränsningar"
   },
   {
@@ -176,6 +192,7 @@
       "Sant",
       "Falskt"
     ],
+    "correctAnswerIndex": 1,
     "category": "Hastighetsbegränsningar"
   },
   {
@@ -187,6 +204,7 @@
       "Endast böter",
       "Inget straff"
     ],
+    "correctAnswerIndex": 1,
     "category": "Hastighetsbegränsningar"
   },
   {
@@ -198,6 +216,7 @@
       "Förbud för lastbilar",
       "Fotgängare har företräde"
     ],
+    "correctAnswerIndex": 1,
     "category": "Hastighetsbegränsningar"
   },
   {
@@ -209,6 +228,7 @@
       "Året runt",
       "Aldrig"
     ],
+    "correctAnswerIndex": 0,
     "category": "Hastighetsbegränsningar"
   },
   {
@@ -220,6 +240,7 @@
       "Brant backe",
       "Halt väg"
     ],
+    "correctAnswerIndex": 1,
     "category": "Trafikskyltar & signaler"
   },
   {
@@ -229,6 +250,7 @@
       "Sant",
       "Falskt"
     ],
+    "correctAnswerIndex": 1,
     "category": "Trafikskyltar & signaler"
   },
   {
@@ -240,6 +262,7 @@
       "Rondell framöver",
       "Gågata"
     ],
+    "correctAnswerIndex": 0,
     "category": "Trafikskyltar & signaler"
   },
   {
@@ -251,6 +274,7 @@
       "Omkörningsförbud",
       "Parkeringsförbud"
     ],
+    "correctAnswerIndex": 1,
     "category": "Trafikskyltar & signaler"
   },
   {
@@ -262,6 +286,7 @@
       "Gemensam gång- och cykelbana",
       "Cykelreparationsstation"
     ],
+    "correctAnswerIndex": 0,
     "category": "Trafikskyltar & signaler"
   },
   {
@@ -271,6 +296,7 @@
       "Sant",
       "Falskt"
     ],
+    "correctAnswerIndex": 0,
     "category": "Trafikskyltar & signaler"
   },
   {
@@ -282,6 +308,7 @@
       "Skolzon",
       "Omkörningsförbud"
     ],
+    "correctAnswerIndex": 0,
     "category": "Trafikskyltar & signaler"
   },
   {
@@ -293,6 +320,7 @@
       "Lastbilsparkering",
       "Vägvikt framöver"
     ],
+    "correctAnswerIndex": 1,
     "category": "Trafikskyltar & signaler"
   },
   {
@@ -304,6 +332,7 @@
       "Bussfil",
       "Vägren"
     ],
+    "correctAnswerIndex": 1,
     "category": "Trafikskyltar & signaler"
   },
   {
@@ -313,6 +342,7 @@
       "Sant",
       "Falskt"
     ],
+    "correctAnswerIndex": 0,
     "category": "Trafikskyltar & signaler"
   },
   {
@@ -324,6 +354,7 @@
       "Använda ett elfordon",
       "Undvika helger"
     ],
+    "correctAnswerIndex": 0,
     "category": "Områdesspecifika lagar"
   },
   {
@@ -333,6 +364,7 @@
       "Sant",
       "Falskt"
     ],
+    "correctAnswerIndex": 0,
     "category": "Områdesspecifika lagar"
   },
   {
@@ -344,6 +376,7 @@
       "Tillåtet om det är markerat",
       "Tillåtet på natten"
     ],
+    "correctAnswerIndex": 2,
     "category": "Områdesspecifika lagar"
   },
   {
@@ -355,6 +388,7 @@
       "30% lutning",
       "30 tons viktgräns"
     ],
+    "correctAnswerIndex": 0,
     "category": "Områdesspecifika lagar"
   },
   {
@@ -366,6 +400,7 @@
       "Öka farten",
       "Ignorera dem"
     ],
+    "correctAnswerIndex": 1,
     "category": "Områdesspecifika lagar"
   },
   {
@@ -377,6 +412,7 @@
       "80 km/h",
       "Det finns ingen lägsta gräns"
     ],
+    "correctAnswerIndex": 3,
     "category": "Områdesspecifika lagar"
   },
   {
@@ -386,6 +422,7 @@
       "Sant",
       "Falskt"
     ],
+    "correctAnswerIndex": 1,
     "category": "Områdesspecifika lagar"
   },
   {
@@ -397,6 +434,7 @@
       "Både A och B",
       "Inga"
     ],
+    "correctAnswerIndex": 2,
     "category": "Områdesspecifika lagar"
   },
   {
@@ -408,6 +446,7 @@
       "Ignorera dem om de är på trottoaren",
       "Blinka med helljuset"
     ],
+    "correctAnswerIndex": 1,
     "category": "Områdesspecifika lagar"
   },
   {
@@ -419,6 +458,7 @@
       "Ingen tutning",
       "Inga U-svängar"
     ],
+    "correctAnswerIndex": 0,
     "category": "Områdesspecifika lagar"
   },
   {
@@ -430,6 +470,7 @@
       "1 november -- 15 april",
       "Året runt"
     ],
+    "correctAnswerIndex": 0,
     "category": "Fordonsspecifika regler"
   },
   {
@@ -439,6 +480,7 @@
       "Sant",
       "Falskt (Endast okt--apr)"
     ],
+    "correctAnswerIndex": 1,
     "category": "Fordonsspecifika regler"
   },
   {
@@ -450,6 +492,7 @@
       "2,5 mm",
       "3,0 mm"
     ],
+    "correctAnswerIndex": 1,
     "category": "Fordonsspecifika regler"
   },
   {
@@ -461,6 +504,7 @@
       "Endast bromsar",
       "Inget extra"
     ],
+    "correctAnswerIndex": 0,
     "category": "Fordonsspecifika regler"
   },
   {
@@ -472,6 +516,7 @@
       "Inget",
       "Reflektiv väst"
     ],
+    "correctAnswerIndex": 0,
     "category": "Fordonsspecifika regler"
   },
   {
@@ -481,6 +526,7 @@
       "Sant",
       "Falskt"
     ],
+    "correctAnswerIndex": 0,
     "category": "Fordonsspecifika regler"
   },
   {
@@ -492,6 +538,7 @@
       "1,5 meter",
       "Ingen gräns"
     ],
+    "correctAnswerIndex": 1,
     "category": "Fordonsspecifika regler"
   },
   {
@@ -503,6 +550,7 @@
       "Aldrig",
       "Alltid, även på dagen"
     ],
+    "correctAnswerIndex": 1,
     "category": "Fordonsspecifika regler"
   },
   {
@@ -514,6 +562,7 @@
       "Körkortsindragning",
       "Inget straff"
     ],
+    "correctAnswerIndex": 1,
     "category": "Fordonsspecifika regler"
   },
   {
@@ -523,6 +572,571 @@
       "Sant",
       "Falskt"
     ],
+    "correctAnswerIndex": 0,
     "category": "Fordonsspecifika regler"
+  },
+  {
+    "id": 51,
+    "question": "Vad indikerar en skylt med \"P\" överkorsad av en röd linje?",
+    "options": [
+      "Avgiftsbelagd parkering",
+      "Parkering förbjuden",
+      "Parkering endast för boende",
+      "Gratis parkering i 1 timme"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Parkeringsregler"
+  },
+  {
+    "id": 52,
+    "question": "Sant eller falskt: Du får parkera framför en brandpost om du stannar i bilen.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Parkeringsregler"
+  },
+  {
+    "id": 53,
+    "question": "Hur nära en korsning får du parkera?",
+    "options": [
+      "5 meter",
+      "10 meter",
+      "15 meter",
+      "20 meter"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Parkeringsregler"
+  },
+  {
+    "id": 54,
+    "question": "Vad betyder en blå parkeringsskylt med vita siffror (t.ex. \"8-17\")?",
+    "options": [
+      "Gratis parkering under dessa timmar",
+      "Avgiftsbelagd parkering under dessa timmar",
+      "Parkering förbjuden under dessa timmar",
+      "Lastzon under dessa timmar"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Parkeringsregler"
+  },
+  {
+    "id": 55,
+    "question": "Är det lagligt att parkera på en cykelbana?",
+    "options": [
+      "Ja, om det är mindre än 5 minuter",
+      "Ja, om inga cyklister kommer",
+      "Nej, aldrig",
+      "Endast på natten"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Parkeringsregler"
+  },
+  {
+    "id": 56,
+    "question": "Vad är straffet för att parkera på en elbilsladdningsplats utan att ladda?",
+    "options": [
+      "Varning",
+      "500 SEK i böter",
+      "1 500 SEK i böter",
+      "Bogsera bort"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Parkeringsregler"
+  },
+  {
+    "id": 57,
+    "question": "Sant eller falskt: Du får parkera mot körriktningen på en lugn bostadsgata.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Parkeringsregler"
+  },
+  {
+    "id": 58,
+    "question": "Vad indikerar en gul trottoarkant?",
+    "options": [
+      "Lastzon",
+      "Parkering förbjuden",
+      "Taxistation",
+      "Korttids-parkering"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Parkeringsregler"
+  },
+  {
+    "id": 59,
+    "question": "Hur länge får du parkera vid en \"Lastplats\" (lastzon)?",
+    "options": [
+      "5 minuter",
+      "15 minuter",
+      "30 minuter",
+      "Så länge som behövs"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Parkeringsregler"
+  },
+  {
+    "id": 60,
+    "question": "Sant eller falskt: Parkeringsböter kan utfärdas av privata parkeringsbolag.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Parkeringsregler"
+  },
+  {
+    "id": 61,
+    "question": "Vem har företräde i en rondell?",
+    "options": [
+      "Fordon som kör in",
+      "Fordon som redan är i rondellen",
+      "Det större fordonet",
+      "Det snabbare fordonet"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Rondeller"
+  },
+  {
+    "id": 62,
+    "question": "Vad bör du göra när du närmar dig en rondell?",
+    "options": [
+      "Öka farten för att snabbt köra in",
+      "Väja för fordon från vänster",
+      "Väja för fordon som redan är i rondellen",
+      "Tuta för att meddela din närvaro"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Rondeller"
+  },
+  {
+    "id": 63,
+    "question": "Sant eller falskt: Du måste alltid blinka vänster när du kör ut ur en rondell.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Rondeller"
+  },
+  {
+    "id": 64,
+    "question": "Vad kräver en rondell med cykelbanor på utsidan av förare?",
+    "options": [
+      "Väja för cyklister vid in-/utkörning",
+      "Ignorera cyklister",
+      "Tuta på cyklister",
+      "Köra i cykelbana när den är tom"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Rondeller"
+  },
+  {
+    "id": 65,
+    "question": "Hur ska du blinka när du kör rakt genom en rondell?",
+    "options": [
+      "Blinka vänster vid inkörning",
+      "Blinka höger vid utkörning",
+      "Inga blinkers behövs",
+      "Varningsblinkers hela tiden"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Rondeller"
+  },
+  {
+    "id": 66,
+    "question": "Vad är den högsta tillåtna hastigheten när du drar en släpvagn på motorväg?",
+    "options": [
+      "70 km/h",
+      "80 km/h",
+      "90 km/h",
+      "100 km/h"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Släpvagnar och dragfordon"
+  },
+  {
+    "id": 67,
+    "question": "Sant eller falskt: Släpvagnar över 750 kg kräver fungerande bromsar.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Släpvagnar och dragfordon"
+  },
+  {
+    "id": 68,
+    "question": "Vad måste visas när du drar en bred last?",
+    "options": [
+      "Röd flagga under dagen",
+      "Röda lampor på natten",
+      "\"Långfordon\"-skylt",
+      "Alla ovanstående"
+    ],
+    "correctAnswerIndex": 3,
+    "category": "Släpvagnar och dragfordon"
+  },
+  {
+    "id": 69,
+    "question": "När du parkerar med släpvagn måste du:",
+    "options": [
+      "Koppla loss den",
+      "Använda hjulklossar",
+      "Både A och B",
+      "Inget särskilt"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Släpvagnar och dragfordon"
+  },
+  {
+    "id": 70,
+    "question": "Sant eller falskt: Du behöver ett särskilt körkort för att dra en husvagn över 3 500 kg.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Släpvagnar och dragfordon"
+  },
+  {
+    "id": 71,
+    "question": "Vad ska du göra om en älg plötsligt korsar vägen?",
+    "options": [
+      "Svänga för att undvika den",
+      "Bromsa hårt och tuta",
+      "Sakta ner men sväng inte",
+      "Blinka med helljuset"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Djur på vägar"
+  },
+  {
+    "id": 72,
+    "question": "Sant eller falskt: Det är olagligt att låta din hund åka obältad i bilen.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Djur på vägar"
+  },
+  {
+    "id": 73,
+    "question": "Vad indikerar en triangulär skylt med en hjortsymbol?",
+    "options": [
+      "Jaktområde",
+      "Viltpassage",
+      "Knutbygård framöver",
+      "Djursjukhus"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Djur på vägar"
+  },
+  {
+    "id": 74,
+    "question": "Vem är ansvarig om ditt lösa husdjur orsakar en olycka?",
+    "options": [
+      "Djuret",
+      "Den andra föraren",
+      "Du som ägare",
+      "Ingen"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Djur på vägar"
+  },
+  {
+    "id": 75,
+    "question": "Sant eller falskt: Du måste anmäla att du har kört på ett stort djur (som en älg) till polisen.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Djur på vägar"
+  },
+  {
+    "id": 76,
+    "question": "Vad är det första du ska göra efter en mindre kollision?",
+    "options": [
+      "Flytta fordonen till säker plats",
+      "Ta foton",
+      "Ringa försäkringsbolaget",
+      "Gräla med den andra föraren"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Nödsituationer"
+  },
+  {
+    "id": 77,
+    "question": "Sant eller falskt: Du måste ha en varningstriangel i bilen.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Nödsituationer"
+  },
+  {
+    "id": 78,
+    "question": "Om din bil går sönder på motorvägen bör du:",
+    "options": [
+      "Stanna i bilen",
+      "Stå bakom barriären",
+      "Gå till nästa avfart",
+      "Reparera den själv"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Nödsituationer"
+  },
+  {
+    "id": 79,
+    "question": "Vilken information måste du utbyta efter en olycka?",
+    "options": [
+      "Endast försäkringsuppgifter",
+      "Namn, adress och registreringsnummer",
+      "Ingenting",
+      "Personnummer"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Nödsituationer"
+  },
+  {
+    "id": 80,
+    "question": "Sant eller falskt: Du måste anmäla alla olyckor till polisen.",
+    "options": [
+      "Sant",
+      "Falskt (endast vid skador/skada >10 000 SEK)"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Nödsituationer"
+  },
+  {
+    "id": 81,
+    "question": "Vad är \"miljöanpassad körning\"?",
+    "options": [
+      "Att endast använda elbilar",
+      "Bränsleeffektiva körtekniker",
+      "Att köra långsamt",
+      "Samåkning"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Miljöanpassad körning"
+  },
+  {
+    "id": 82,
+    "question": "Sant eller falskt: Tomgång av motorn i mer än 1 minut är förbjudet.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Miljöanpassad körning"
+  },
+  {
+    "id": 83,
+    "question": "Vad minskar bränsleförbrukningen mest?",
+    "options": [
+      "Plötslig acceleration",
+      "Jämn hastighet",
+      "Körning i låg växel",
+      "Användning av luftkonditionering"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Miljöanpassad körning"
+  },
+  {
+    "id": 84,
+    "question": "Vad indikerar en \"Miljözon\"-skylt?",
+    "options": [
+      "Högutsläppsområde",
+      "Lågutslippsfördonzon",
+      "Bilfri zon",
+      "Återvinningscentral"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Miljöanpassad körning"
+  },
+  {
+    "id": 85,
+    "question": "Sant eller falskt: Hybrider får gratis parkering i alla svenska städer.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Miljöanpassad körning"
+  },
+  {
+    "id": 86,
+    "question": "När är handhållen telefonanvändning tillåten under körning?",
+    "options": [
+      "Aldrig",
+      "Vid rödljus",
+      "I långsam trafik",
+      "För navigering"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Distraktioner & mobila telefoner"
+  },
+  {
+    "id": 87,
+    "question": "Sant eller falskt: Att äta under körning är olagligt.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Distraktioner & mobila telefoner"
+  },
+  {
+    "id": 88,
+    "question": "Vad är bötesbeloppet för att sms:a under körning?",
+    "options": [
+      "500 SEK",
+      "1 500 SEK",
+      "3 000 SEK",
+      "6 000 SEK"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Distraktioner & mobila telefoner"
+  },
+  {
+    "id": 89,
+    "question": "Vad anses vara en distraktion?",
+    "options": [
+      "Justera radio",
+      "Prata med passagerare",
+      "Både A och B",
+      "Ingetdera"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Distraktioner & mobila telefoner"
+  },
+  {
+    "id": 90,
+    "question": "Sant eller falskt: Händfria telefonsamtal är helt säkra.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Distraktioner & mobila telefoner"
+  },
+  {
+    "id": 91,
+    "question": "När måste vinterdäck användas?",
+    "options": [
+      "December--mars",
+      "När vägarna är isiga",
+      "November--april",
+      "Året runt"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Vinterkörning"
+  },
+  {
+    "id": 92,
+    "question": "Sant eller falskt: Dubbdäck skadar vägar.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Vinterkörning"
+  },
+  {
+    "id": 93,
+    "question": "Vad är det minsta mönsterdjupet för vinterdäck?",
+    "options": [
+      "1,6 mm",
+      "3,0 mm",
+      "5,0 mm",
+      "Inget krav"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Vinterkörning"
+  },
+  {
+    "id": 94,
+    "question": "När ska du använda snökedjor?",
+    "options": [
+      "Alltid på vintern",
+      "Endast när det är skyltat",
+      "Aldrig i Sverige",
+      "Endast på motorvägar"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Vinterkörning"
+  },
+  {
+    "id": 95,
+    "question": "Sant eller falskt: Du måste rensa all snö/is från din bil innan körning.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Vinterkörning"
+  },
+  {
+    "id": 96,
+    "question": "Vad är \"svartis\"?",
+    "options": [
+      "Smutsig snö",
+      "Tunn, transparent is",
+      "Vägmarkeringar",
+      "Asfaltsdefekt"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Vinterkörning"
+  },
+  {
+    "id": 97,
+    "question": "Hur ska du bromsa på is?",
+    "options": [
+      "Pumpa bromsarna",
+      "Bromsa hårt",
+      "Använda parkeringsbromsen",
+      "Inte bromsa"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Vinterkörning"
+  },
+  {
+    "id": 98,
+    "question": "Sant eller falskt: Fyrhjulsdrift betyder kortare bromssträcka på is.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Vinterkörning"
+  },
+  {
+    "id": 99,
+    "question": "Vad ska du göra om du fastnat i snö?",
+    "options": [
+      "Snurra hjulen snabbt",
+      "Gunga försiktigt fram/tillbaka",
+      "Tuta efter hjälp",
+      "Överge bilen"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Vinterkörning"
+  },
+  {
+    "id": 100,
+    "question": "Sant eller falskt: Vinterdäck krävs på alla axlar.",
+    "options": [
+      "Sant",
+      "Falskt"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Vinterkörning"
   }
 ]

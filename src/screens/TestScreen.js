@@ -17,13 +17,28 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 
 const {width, height} = Dimensions.get('window');
 
+// In TestScreen.js, modify the beginning of the component:
 const TestScreen = ({navigation, route}) => {
   const {getQuestions, getTextStyle, language} = useLanguage();
-  const questions = getQuestions();
+  const allQuestions = getQuestions();
+
+  // Get the selected question count or default to all questions
+  const questionCount = route.params?.questionCount || allQuestions.length;
+
+  // Shuffle the questions and take the selected count
+  const [questions] = useState(() => {
+    const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, questionCount);
+  });
+
+  // Rest of the component remains the same...
 
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState(null);
-  const [userAnswers, setUserAnswers] = useState([]);
+  // Initialize userAnswers with empty slots for all questions
+  const [userAnswers, setUserAnswers] = useState(
+    Array(questions.length).fill(null),
+  );
   const [showCorrectAnswer, setShowCorrectAnswer] = useState(false);
   const [isAnswerSubmitted, setIsAnswerSubmitted] = useState(false);
 
@@ -44,6 +59,7 @@ const TestScreen = ({navigation, route}) => {
     // Reset answer submission state when question changes
     setIsAnswerSubmitted(false);
     setShowCorrectAnswer(false);
+    setSelectedOption(null);
   }, [currentQuestionIndex]);
 
   const animateQuestionChange = (direction, callback) => {
@@ -85,30 +101,34 @@ const TestScreen = ({navigation, route}) => {
   };
 
   const handleAnswerSubmission = () => {
-    if (selectedOption === null) return; // Don't proceed if no option selected
+    if (selectedOption === null) return;
 
     const isCorrect = selectedOption === currentQuestion.correctAnswerIndex;
     setIsAnswerSubmitted(true);
 
-    // Record the answer
-    setUserAnswers([
-      ...userAnswers,
-      {
+    // Record the answer - use currentQuestionIndex as the identifier
+    setUserAnswers(prevAnswers => {
+      const newAnswers = [...prevAnswers];
+      newAnswers[currentQuestionIndex] = {
         questionId: currentQuestion.id,
         selectedOption,
         isCorrect,
-      },
-    ]);
+        questionText: currentQuestion.question,
+        options: currentQuestion.options,
+        correctAnswerIndex: currentQuestion.correctAnswerIndex,
+      };
+      return newAnswers;
+    });
 
     if (!isCorrect) {
-      // Show correct answer for 2 seconds before navigating
       setShowCorrectAnswer(true);
       setTimeout(() => {
         goToNextQuestion();
       }, 2000);
     } else {
-      // Immediately go to next question if answer is correct
-      goToNextQuestion();
+      setTimeout(() => {
+        goToNextQuestion();
+      }, 500);
     }
   };
 
@@ -119,26 +139,26 @@ const TestScreen = ({navigation, route}) => {
         setSelectedOption(null);
       });
     } else {
-      // If it's the last question, navigate to results
-      navigation.navigate('Results', {
-        answers: userAnswers,
-        questions: questions,
-        title: route.params?.title,
-      });
+      // If it's the last question, go back to the previous screen
+      navigation.goBack();
     }
   };
-
   const handlePrevious = () => {
     if (currentQuestionIndex > 0) {
       animateQuestionChange('prev', () => {
         setCurrentQuestionIndex(currentQuestionIndex - 1);
-        setSelectedOption(null);
+        // Get the answer for the previous question
+        const prevAnswer = userAnswers[currentQuestionIndex - 1];
+        setSelectedOption(prevAnswer ? prevAnswer.selectedOption : null);
       });
     }
   };
 
+  // In the handleBack function of TestScreen:
   const handleBack = () => {
-    navigation.goBack();
+    navigation.navigate('QuestionCountSelection', {
+      questionCount: route.params?.questionCount,
+    });
   };
 
   const getOptionStyle = index => {
@@ -382,9 +402,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     backgroundColor: 'rgba(255, 255, 255, 0.1)',
     minHeight: 50,
-    // Add these for better shadow visibility:
     overflow: 'hidden',
-
   },
   navButtonGlowNext: {
     shadowColor: '#4CAF50',

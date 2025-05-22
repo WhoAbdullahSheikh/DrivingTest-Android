@@ -149,8 +149,8 @@ const RulesScreen = ({navigation}) => {
                             {rule.text[language] || rule.text.en}
                           </Text>
                           {isRTL && (
-                            <Text style={styles.ruleNumber}>
-                              {index + 1}.
+                            <Text style={[styles.ruleNumber, styles.ruleNumberRTL]}>
+                              .{index + 1}
                             </Text>
                           )}
                         </View>
@@ -260,13 +260,17 @@ const styles = StyleSheet.create({
     marginBottom: 10,
   },
   ruleItemRTL: {
-    flexDirection: 'row-reverse',
+    flexDirection: 'row',
+    justifyContent: 'flex-end',
   },
   ruleNumber: {
     color: '#fff',
     marginRight: 10,
-    marginLeft: 5,
     fontFamily: 'Raleway-Regular',
+  },
+  ruleNumberRTL: {
+    marginRight: 0,
+    marginLeft: 10,
   },
   ruleText: {
     flex: 1,

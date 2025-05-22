@@ -9,6 +9,8 @@ import SettingsScreen from '../screens/SettingsScreen';
 import LanguageSettings from '../screens/libs/LanguageSettings';
 import ResultScreen from '../screens/ResultScreen';
 import RulesScreen from '../screens/RulesScreen';
+import QuestionCountSelection from '../screens/libs/QuestionCountSelection';
+
 const Stack = createStackNavigator();
 
 const AppNavigator = () => {
@@ -51,6 +53,11 @@ const AppNavigator = () => {
         <Stack.Screen
           name="Rules"
           component={RulesScreen}
+          options={{ headerShown: false }}
+        />
+        <Stack.Screen
+          name="QuestionCountSelection"
+          component={QuestionCountSelection}
           options={{ headerShown: false }}
         />
       </Stack.Navigator>

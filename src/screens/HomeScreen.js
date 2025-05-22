@@ -65,12 +65,10 @@ const HomeScreen = ({navigation}) => {
   const {language} = useLanguage();
   const t = translations[language] || translations.en;
 
-  const handleStartTest = () => {
-    navigation.navigate('Test', {
-      testType: 'full',
-      title: t.fullTest,
-    });
-  };
+
+const handleStartTest = () => {
+  navigation.navigate('QuestionCountSelection');
+};
 
   return (
     <>
@@ -169,7 +167,6 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 32,
-    fontWeight: 'bold',
     color: '#fff',
     marginBottom: 5,
     fontFamily: 'Raleway-Bold',
@@ -211,7 +208,6 @@ const styles = StyleSheet.create({
   },
   cardTitle: {
     fontSize: 18,
-    fontWeight: 'bold',
     color: '#fff',
     fontFamily: 'Raleway-Bold',
   },
@@ -223,7 +219,6 @@ const styles = StyleSheet.create({
   },
   sectionTitle: {
     fontSize: 18,
-    fontWeight: 'bold',
     color: '#fff',
     marginTop: 25,
     marginBottom: 15,

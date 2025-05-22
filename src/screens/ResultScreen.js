@@ -49,19 +49,11 @@ const ResultsScreen = ({navigation, route}) => {
 
   const {answers = [], questions = []} = route.params || {};
   
-  const questionMap = {};
-  questions.forEach(q => {
-    questionMap[q.id] = q;
-  });
-
-  const correctAnswers = answers.filter(answer => {
-    const question = questionMap[answer.questionId];
-    return question && answer.selectedOption === question.correctAnswerIndex;
-  }).length;
-
-  const totalQuestions = questions.length;
-  const percentage = Math.round((correctAnswers / totalQuestions) * 100);
-  const passed = percentage >= 70;
+// Calculate results
+const totalQuestions = questions.length;
+const correctAnswers = answers.filter(answer => answer && answer.isCorrect).length;
+const percentage = Math.round((correctAnswers / totalQuestions) * 100);
+const passed = percentage >= 70;
 
   // Result translations
   const resultTexts = {
@@ -119,6 +111,11 @@ const ResultsScreen = ({navigation, route}) => {
       en: 'Try Again!',
       sv: 'Försök igen!',
       ar: 'حاول مرة أخرى!'
+    },
+    passingScore: {
+      en: 'Passing Score: 70%',
+      sv: 'Godkänt: 70%',
+      ar: 'درجة النجاح: 70%'
     }
   };
 
@@ -136,6 +133,7 @@ const ResultsScreen = ({navigation, route}) => {
     navigation.navigate('TestDetails', {
       answers: answers,
       questions: questions,
+      title: route.params?.title,
     });
   };
 
@@ -171,15 +169,14 @@ const ResultsScreen = ({navigation, route}) => {
                 <Text style={[styles.passFailText, getTextStyle()]}>
                   {passed ? getText('passed') : getText('failed')}
                 </Text>
-                {passed && (
+                {passed ? (
                   <Icon 
                     name="check-circle" 
                     size={40} 
                     color="#4CAF50" 
                     style={styles.resultIcon} 
                   />
-                )}
-                {!passed && (
+                ) : (
                   <Icon 
                     name="alert-circle" 
                     size={40} 
@@ -192,6 +189,15 @@ const ResultsScreen = ({navigation, route}) => {
               <View style={styles.detailsContainer}>
                 <View style={styles.detailRow}>
                   <Text style={[styles.detailLabel, getTextStyle()]}>
+                    {getText('correct')}
+                  </Text>
+                  <Text style={[styles.detailValue, {color: passed ? '#4CAF50' : '#F44336'}]}>
+                    {correctAnswers}/{totalQuestions}
+                  </Text>
+                </View>
+                
+                <View style={styles.detailRow}>
+                  <Text style={[styles.detailLabel, getTextStyle()]}>
                     {getText('score')}
                   </Text>
                   <Text style={[styles.detailValue, {color: passed ? '#4CAF50' : '#F44336'}]}>
@@ -201,11 +207,9 @@ const ResultsScreen = ({navigation, route}) => {
                 
                 <View style={styles.detailRow}>
                   <Text style={[styles.detailLabel, getTextStyle()]}>
-                    {getText('correct')}
+                    {getText('passingScore')}
                   </Text>
-                  <Text style={styles.detailValue}>
-                    {correctAnswers}/{totalQuestions}
-                  </Text>
+                  <Text style={styles.detailValue}>70%</Text>
                 </View>
               </View>
 
@@ -264,9 +268,10 @@ const styles = StyleSheet.create({
   },
   container: {
     flex: 1,
-    paddingHorizontal: 20,
+    paddingHorizontal: 15,
     justifyContent: 'center',
     alignItems: 'center',
+    marginBottom: 20,
   },
   title: {
     fontSize: 28,
@@ -389,12 +394,12 @@ const styles = StyleSheet.create({
   },
   button: {
     flexDirection: 'row',
-    padding: 15,
-    borderRadius: 25,
+    padding: 5,
+    borderRadius: 15,
     width: '48%',
     alignItems: 'center',
     justifyContent: 'center',
-    minHeight: 50,
+    minHeight: 45,
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.3,
@@ -405,7 +410,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#4CAF50',
   },
   homeButton: {
-    color: '#fff',
     backgroundColor: 'rgba(255, 255, 255, 0.1)'
   },
   buttonText: {

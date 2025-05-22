@@ -13,6 +13,7 @@ import LinearGradient from 'react-native-linear-gradient';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import {useLanguage} from '../context/LanguageContext';
 import {useNavigation} from '@react-navigation/native';
+import LottieView from 'lottie-react-native';
 
 const {width, height} = Dimensions.get('window');
 
@@ -40,6 +41,7 @@ const LanguageScreen = () => {
   const [activeSlide, setActiveSlide] = useState(0);
   const fadeAnim = useRef(new Animated.Value(0)).current;
   const slideAnim = useRef(new Animated.Value(30)).current;
+  const animationRef = useRef(null);
 
   useEffect(() => {
     // Animation for content when slide changes
@@ -101,7 +103,13 @@ const LanguageScreen = () => {
                 transform: [{translateY: slideAnim}],
               },
             ]}>
-            <Icon name="car" size={60} color="#4CAF50" style={styles.icon} />
+            <LottieView
+              ref={animationRef}
+              source={require('../../assets/animations/logo.json')} // Replace with your Lottie file
+              autoPlay
+              loop
+              style={styles.lottieAnimation}
+            />
             <Text style={styles.title}>Drive Smart</Text>
             <Text style={styles.subtitle}>Master your driving skills</Text>
           </Animated.View>
@@ -121,10 +129,6 @@ const LanguageScreen = () => {
                 style={styles.infoText}
               />
             )}
-            <Text style={styles.swipeHint}>
-              <Icon name="gesture-swipe-left" size={24} color="#aaa" />
-              Swipe to select language
-            </Text>
           </Animated.View>
         </View>
 
@@ -138,7 +142,7 @@ const LanguageScreen = () => {
                 transform: [{translateY: slideAnim}],
               },
             ]}>
-            <Text style={styles.title}>Select Language</Text>
+            <Text style={styles.title2}>Select Language</Text>
             <Text style={styles.subtitle}>Choose your preferred language</Text>
           </Animated.View>
 
@@ -153,14 +157,14 @@ const LanguageScreen = () => {
             <TouchableOpacity
               style={styles.languageCard}
               onPress={() => handleLanguageSelect('en')}>
-              <Text style={styles.languageText}>English</Text>
+              <Text style={styles.languageText}>🇬🇧  English</Text>
               <Icon name="chevron-right" size={24} color="#4CAF50" />
             </TouchableOpacity>
 
             <TouchableOpacity
               style={styles.languageCard}
               onPress={() => handleLanguageSelect('sv')}>
-              <Text style={styles.languageText}>Svenska</Text>
+              <Text style={styles.languageText}>🇸🇪  Svenska</Text>
               <Icon name="chevron-right" size={24} color="#4CAF50" />
             </TouchableOpacity>
 
@@ -168,13 +172,21 @@ const LanguageScreen = () => {
               style={styles.languageCard}
               onPress={() => handleLanguageSelect('ar')}>
               <Text style={[styles.languageText, {textAlign: 'left'}]}>
-                العربية
+                🇸🇦  العربية
               </Text>
               <Icon name="chevron-right" size={24} color="#4CAF50" />
             </TouchableOpacity>
           </Animated.View>
         </View>
       </Swiper>
+
+      {/* Fixed "Swipe to select language" hint */}
+      <View style={styles.fixedSwipeHint}>
+        <Text style={styles.swipeHint}>
+          <Icon name="gesture-swipe-left" size={24} color="#aaa" /> Swipe to
+          select language
+        </Text>
+      </View>
     </LinearGradient>
   );
 };
@@ -186,24 +198,34 @@ const styles = StyleSheet.create({
   slide: {
     flex: 1,
     padding: 20,
-    paddingTop: height * 0.1,
+    paddingTop: height * 0.02,
   },
   header: {
     alignItems: 'center',
-    marginBottom: 40,
+    marginBottom: -120,
   },
-  icon: {
-    marginBottom: 20,
+  lottieAnimation: {
+    width: 260,
+    height: 200,
+    marginBottom: 0,
   },
   title: {
     fontSize: 32,
-    fontWeight: 'bold',
     color: '#fff',
     marginBottom: 5,
+    textAlign: 'center',
+    fontFamily: 'Raleway-Bold',
+    marginTop: -30,
+  },
+  title2: {
+    fontSize: 32,
+    color: '#fff',
+    marginBottom: 5,
+    marginTop: 50,
     fontFamily: 'Raleway-Bold',
   },
   subtitle: {
-    fontSize: 16,
+    fontSize: 14,
     color: '#aaa',
     fontFamily: 'Raleway-Regular',
   },
@@ -214,18 +236,28 @@ const styles = StyleSheet.create({
     fontFamily: 'Raleway-Regular',
   },
   infoText: {
-    fontSize: 18,
+    fontSize: 14,
+    letterSpacing: 1,
     color: '#eee',
     lineHeight: 26,
     textAlign: 'center',
     marginBottom: 30,
     fontFamily: 'Raleway-Regular',
   },
+  fixedSwipeHint: {
+    position: 'absolute',
+    bottom: height * 0.15,
+    left: 0,
+    right: 0,
+    alignItems: 'center',
+  },
   swipeHint: {
     color: '#aaa',
     textAlign: 'center',
-    marginTop: 180,
     fontFamily: 'Raleway-Regular',
+  },
+  pagination: {
+    bottom: height * 0.1,
   },
   languageOptions: {
     flex: 1,
@@ -244,7 +276,7 @@ const styles = StyleSheet.create({
     borderColor: 'rgba(255, 255, 255, 0.1)',
   },
   languageText: {
-    fontSize: 18,
+    fontSize: 16,
     color: '#fff',
     flex: 1,
     fontFamily: 'Raleway-Regular',
@@ -262,9 +294,6 @@ const styles = StyleSheet.create({
     height: 8,
     borderRadius: 4,
     margin: 3,
-  },
-  pagination: {
-    bottom: height * 0.1,
   },
 });
 

@@ -8,29 +8,21 @@
       "The faster vehicle",
       "The larger vehicle"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "General Traffic Regulations"
   },
   {
     "id": 2,
     "question": "True or False: You must always yield to trams in Sweden.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctAnswerIndex": 0, 
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
     "category": "General Traffic Regulations"
   },
   {
     "id": 3,
     "question": "When overtaking a bicycle, what's the minimum safe distance?",
-    "options": [
-      "0.5 meters",
-      "1 meter",
-      "1.5 meters",
-      "2 meters"
-    ],
-    "correctAnswerIndex": 2, 
+    "options": ["0.5 meters", "1 meter", "1.5 meters", "2 meters"],
+    "correctAnswerIndex": 2,
     "category": "General Traffic Regulations"
   },
   {
@@ -42,7 +34,7 @@
       "Honk to alert pedestrians",
       "Ignore it unless someone is crossing"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "General Traffic Regulations"
   },
   {
@@ -54,7 +46,7 @@
       "Flash your headlights in response",
       "Continue driving normally"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "General Traffic Regulations"
   },
   {
@@ -66,17 +58,14 @@
       "Bus lane",
       "Roadwork zone"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "General Traffic Regulations"
   },
   {
     "id": 7,
     "question": "True or False: U-turns are always permitted unless a sign prohibits them.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
     "category": "General Traffic Regulations"
   },
   {
@@ -88,7 +77,7 @@
       "In tunnels for safety",
       "When overtaking"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "General Traffic Regulations"
   },
   {
@@ -100,7 +89,7 @@
       "The larger vehicle",
       "The faster vehicle"
     ],
-    "correctAnswerIndex": 0, 
+    "correctAnswerIndex": 0,
     "category": "General Traffic Regulations"
   },
   {
@@ -112,53 +101,35 @@
       "Ease off the accelerator and steer gently",
       "Accelerate to regain control"
     ],
-    "correctAnswerIndex": 2, 
+    "correctAnswerIndex": 2,
     "category": "General Traffic Regulations"
   },
   {
     "id": 11,
     "question": "What's the default speed limit in urban areas?",
-    "options": [
-      "30 km/h",
-      "50 km/h",
-      "70 km/h",
-      "90 km/h"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["30 km/h", "50 km/h", "70 km/h", "90 km/h"],
+    "correctAnswerIndex": 1,
     "category": "Speed Limits"
   },
   {
     "id": 12,
     "question": "True or False: The speed limit on highways is always 120 km/h.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
     "category": "Speed Limits"
   },
   {
     "id": 13,
     "question": "What's the speed limit when towing a trailer on a rural road?",
-    "options": [
-      "70 km/h",
-      "80 km/h",
-      "90 km/h",
-      "100 km/h"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["70 km/h", "80 km/h", "90 km/h", "100 km/h"],
+    "correctAnswerIndex": 1,
     "category": "Speed Limits"
   },
   {
     "id": 14,
     "question": "In a \"Gångfartsområde\" (walking pace zone), the speed limit is:",
-    "options": [
-      "20 km/h",
-      "30 km/h",
-      "40 km/h",
-      "50 km/h"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["20 km/h", "30 km/h", "40 km/h", "50 km/h"],
+    "correctAnswerIndex": 1,
     "category": "Speed Limits"
   },
   {
@@ -170,29 +141,21 @@
       "Never",
       "Only at night"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "Speed Limits"
   },
   {
     "id": 16,
     "question": "What's the speed limit in a school zone during active hours?",
-    "options": [
-      "30 km/h",
-      "40 km/h",
-      "50 km/h",
-      "60 km/h"
-    ],
-    "correctAnswerIndex": 0, 
+    "options": ["30 km/h", "40 km/h", "50 km/h", "60 km/h"],
+    "correctAnswerIndex": 0,
     "category": "Speed Limits"
   },
   {
     "id": 17,
     "question": "True or False: You can exceed the speed limit when overtaking.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
     "category": "Speed Limits"
   },
   {
@@ -204,7 +167,7 @@
       "Only a fine",
       "No penalty"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "Speed Limits"
   },
   {
@@ -216,7 +179,7 @@
       "Trucks prohibited",
       "Pedestrian priority"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "Speed Limits"
   },
   {
@@ -228,7 +191,7 @@
       "Year-round",
       "Never"
     ],
-    "correctAnswerIndex": 0, 
+    "correctAnswerIndex": 0,
     "category": "Speed Limits"
   },
   {
@@ -240,17 +203,14 @@
       "Steep hill",
       "Slippery road"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "Traffic Signs & Signals"
   },
   {
     "id": 22,
     "question": "True or False: A flashing yellow light means \"stop.\"",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
     "category": "Traffic Signs & Signals"
   },
   {
@@ -262,19 +222,14 @@
       "Roundabout ahead",
       "Pedestrian zone"
     ],
-    "correctAnswerIndex": 0, 
+    "correctAnswerIndex": 0,
     "category": "Traffic Signs & Signals"
   },
   {
     "id": 24,
     "question": "What does a white diagonal stripe in a red circle indicate?",
-    "options": [
-      "No stopping",
-      "No entry",
-      "No overtaking",
-      "No parking"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["No stopping", "No entry", "No overtaking", "No parking"],
+    "correctAnswerIndex": 1,
     "category": "Traffic Signs & Signals"
   },
   {
@@ -286,29 +241,21 @@
       "Shared pedestrian path",
       "Bicycle repair station"
     ],
-    "correctAnswerIndex": 0, 
+    "correctAnswerIndex": 0,
     "category": "Traffic Signs & Signals"
   },
   {
     "id": 26,
     "question": "True or False: A green arrow at a traffic light overrides a red light.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctAnswerIndex": 0, 
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
     "category": "Traffic Signs & Signals"
   },
   {
     "id": 27,
     "question": "What does a yellow diamond sign indicate?",
-    "options": [
-      "Priority road",
-      "Yield ahead",
-      "School zone",
-      "No passing"
-    ],
-    "correctAnswerIndex": 0, 
+    "options": ["Priority road", "Yield ahead", "School zone", "No passing"],
+    "correctAnswerIndex": 0,
     "category": "Traffic Signs & Signals"
   },
   {
@@ -320,7 +267,7 @@
       "Truck parking",
       "Weigh station ahead"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "Traffic Signs & Signals"
   },
   {
@@ -332,17 +279,14 @@
       "Bus lane",
       "Road edge"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "Traffic Signs & Signals"
   },
   {
     "id": 30,
     "question": "True or False: A \"STOP\" sign requires a full stop even if no traffic is visible.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctAnswerIndex": 0, 
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
     "category": "Traffic Signs & Signals"
   },
   {
@@ -354,17 +298,14 @@
       "Use an electric vehicle",
       "Avoid weekends"
     ],
-    "correctAnswerIndex": 0, 
+    "correctAnswerIndex": 0,
     "category": "Area-Specific Laws"
   },
   {
     "id": 32,
     "question": "True or False: Buses always have priority in cities.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctAnswerIndex": 0, 
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
     "category": "Area-Specific Laws"
   },
   {
@@ -376,7 +317,7 @@
       "Allowed if marked",
       "Allowed at night"
     ],
-    "correctAnswerIndex": 2, 
+    "correctAnswerIndex": 2,
     "category": "Area-Specific Laws"
   },
   {
@@ -388,7 +329,7 @@
       "30% gradient",
       "30-ton weight limit"
     ],
-    "correctAnswerIndex": 0, 
+    "correctAnswerIndex": 0,
     "category": "Area-Specific Laws"
   },
   {
@@ -400,41 +341,28 @@
       "Speed up",
       "Ignore them"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "Area-Specific Laws"
   },
   {
     "id": 36,
     "question": "On highways, what is the minimum speed limit unless otherwise posted?",
-    "options": [
-      "40 km/h",
-      "60 km/h",
-      "80 km/h",
-      "There is no minimum"
-    ],
-    "correctAnswerIndex": 3, 
+    "options": ["40 km/h", "60 km/h", "80 km/h", "There is no minimum"],
+    "correctAnswerIndex": 3,
     "category": "Area-Specific Laws"
   },
   {
     "id": 37,
     "question": "True or False: It's legal to use the hard shoulder for overtaking on highways.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
     "category": "Area-Specific Laws"
   },
   {
     "id": 38,
     "question": "What vehicles are prohibited on Swedish motorways?",
-    "options": [
-      "Bicycles and mopeds",
-      "Tractors",
-      "Both A and B",
-      "None"
-    ],
-    "correctAnswerIndex": 2, 
+    "options": ["Bicycles and mopeds", "Tractors", "Both A and B", "None"],
+    "correctAnswerIndex": 2,
     "category": "Area-Specific Laws"
   },
   {
@@ -446,19 +374,14 @@
       "Ignore them if they're on the sidewalk",
       "Flash your headlights"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "Area-Specific Laws"
   },
   {
     "id": 40,
     "question": "What does a \"Förbud mot motorfordon\" (red circle with a car) sign mean?",
-    "options": [
-      "No cars allowed",
-      "No parking",
-      "No honking",
-      "No U-turns"
-    ],
-    "correctAnswerIndex": 0, 
+    "options": ["No cars allowed", "No parking", "No honking", "No U-turns"],
+    "correctAnswerIndex": 0,
     "category": "Area-Specific Laws"
   },
   {
@@ -470,29 +393,21 @@
       "November 1 -- April 15",
       "Year-round"
     ],
-    "correctAnswerIndex": 0, 
+    "correctAnswerIndex": 0,
     "category": "Vehicle-Specific Rules"
   },
   {
     "id": 42,
     "question": "True or False: Studded tires are allowed year-round.",
-    "options": [
-      "True",
-      "False (Permitted only Oct--Apr)"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["True", "False (Permitted only Oct--Apr)"],
+    "correctAnswerIndex": 1,
     "category": "Vehicle-Specific Rules"
   },
   {
     "id": 43,
     "question": "What's the minimum tread depth for summer tires?",
-    "options": [
-      "1.0 mm",
-      "1.6 mm",
-      "2.5 mm",
-      "3.0 mm"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["1.0 mm", "1.6 mm", "2.5 mm", "3.0 mm"],
+    "correctAnswerIndex": 1,
     "category": "Vehicle-Specific Rules"
   },
   {
@@ -504,7 +419,7 @@
       "Only brakes",
       "Nothing extra"
     ],
-    "correctAnswerIndex": 0, 
+    "correctAnswerIndex": 0,
     "category": "Vehicle-Specific Rules"
   },
   {
@@ -516,29 +431,21 @@
       "Nothing",
       "Reflective vest"
     ],
-    "correctAnswerIndex": 0, 
+    "correctAnswerIndex": 0,
     "category": "Vehicle-Specific Rules"
   },
   {
     "id": 46,
     "question": "True or False: Daytime running lights are mandatory for cars.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctAnswerIndex": 0, 
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
     "category": "Vehicle-Specific Rules"
   },
   {
     "id": 47,
     "question": "What's the maximum width for a bicycle trailer on roads?",
-    "options": [
-      "1.0 meter",
-      "1.2 meters",
-      "1.5 meters",
-      "No limit"
-    ],
-    "correctAnswerIndex": 1, 
+    "options": ["1.0 meter", "1.2 meters", "1.5 meters", "No limit"],
+    "correctAnswerIndex": 1,
     "category": "Vehicle-Specific Rules"
   },
   {
@@ -550,7 +457,7 @@
       "Never",
       "Always, even in daylight"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "Vehicle-Specific Rules"
   },
   {
@@ -562,17 +469,485 @@
       "License suspension",
       "No penalty"
     ],
-    "correctAnswerIndex": 1, 
+    "correctAnswerIndex": 1,
     "category": "Vehicle-Specific Rules"
   },
   {
     "id": 50,
     "question": "True or False: Electric scooters (e-scooters) are treated like bicycles under Swedish law.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "correctAnswerIndex": 0, 
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
     "category": "Vehicle-Specific Rules"
+  },
+
+  {
+    "id": 51,
+    "question": "What does a sign with \"P\" crossed by a red line indicate?",
+    "options": [
+      "Paid parking",
+      "No parking",
+      "Parking for residents only",
+      "Free parking for 1 hour"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Parking Regulations"
+  },
+  {
+    "id": 52,
+    "question": "True or False: You may park in front of a fire hydrant if you stay in the car.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "category": "Parking Regulations"
+  },
+  {
+    "id": 53,
+    "question": "How close to an intersection can you legally park?",
+    "options": ["5 meters", "10 meters", "15 meters", "20 meters"],
+    "correctAnswerIndex": 1,
+    "category": "Parking Regulations"
+  },
+  {
+    "id": 54,
+    "question": "What does a blue parking sign with white numbers (e.g., \"8-17\") mean?",
+    "options": [
+      "Free parking during those hours",
+      "Paid parking required during those hours",
+      "No parking during those hours",
+      "Loading zone during those hours"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Parking Regulations"
+  },
+  {
+    "id": 55,
+    "question": "Is it legal to park on a bicycle lane?",
+    "options": [
+      "Yes, if it's less than 5 minutes",
+      "Yes, if no cyclists are coming",
+      "No, never",
+      "Only at night"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Parking Regulations"
+  },
+  {
+    "id": 56,
+    "question": "What's the penalty for parking in an electric vehicle charging spot without charging?",
+    "options": ["Warning", "500 SEK fine", "1,500 SEK fine", "Tow-away"],
+    "correctAnswerIndex": 2,
+    "category": "Parking Regulations"
+  },
+  {
+    "id": 57,
+    "question": "True or False: You may park facing against traffic direction on a quiet residential street.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "category": "Parking Regulations"
+  },
+  {
+    "id": 58,
+    "question": "What does a yellow curb indicate?",
+    "options": [
+      "Loading zone",
+      "No parking",
+      "Taxi stand",
+      "Short-term parking"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Parking Regulations"
+  },
+  {
+    "id": 59,
+    "question": "How long can you park at a \"Lastplats\" (loading zone)?",
+    "options": ["5 minutes", "15 minutes", "30 minutes", "As long as needed"],
+    "correctAnswerIndex": 2,
+    "category": "Parking Regulations"
+  },
+  {
+    "id": 60,
+    "question": "True or False: Parking tickets can be issued by private parking companies.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "category": "Parking Regulations"
+  },
+  {
+    "id": 61,
+    "question": "Who has priority in a roundabout?",
+    "options": [
+      "Vehicles entering",
+      "Vehicles already in the roundabout",
+      "The larger vehicle",
+      "The faster vehicle"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Roundabouts"
+  },
+  {
+    "id": 62,
+    "question": "What should you do when approaching a roundabout?",
+    "options": [
+      "Accelerate to merge quickly",
+      "Yield to vehicles from the left",
+      "Yield to vehicles already in the roundabout",
+      "Honk to announce your presence"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Roundabouts"
+  },
+  {
+    "id": 63,
+    "question": "True or False: You must always signal left when exiting a roundabout.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "category": "Roundabouts"
+  },
+  {
+    "id": 64,
+    "question": "What does a roundabout with bike lanes on the outside require from drivers?",
+    "options": [
+      "Yield to cyclists when entering/exiting",
+      "Ignore cyclists",
+      "Honk at cyclists",
+      "Drive in bike lane when empty"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Roundabouts"
+  },
+  {
+    "id": 65,
+    "question": "How should you signal when going straight through a roundabout?",
+    "options": [
+      "Signal left when entering",
+      "Signal right when exiting",
+      "No signals needed",
+      "Hazard lights throughout"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Roundabouts"
+  },
+  {
+    "id": 66,
+    "question": "What's the maximum speed when towing a trailer on a highway?",
+    "options": ["70 km/h", "80 km/h", "90 km/h", "100 km/h"],
+    "correctAnswerIndex": 1,
+    "category": "Towing and Trailers"
+  },
+  {
+    "id": 67,
+    "question": "True or False: Trailers over 750 kg require working brakes.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "category": "Towing and Trailers"
+  },
+  {
+    "id": 68,
+    "question": "What must be displayed when towing a wide load?",
+    "options": [
+      "Red flag during day",
+      "Red lights at night",
+      "\"Långfordon\" sign",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3,
+    "category": "Towing and Trailers"
+  },
+  {
+    "id": 69,
+    "question": "When parking with a trailer, you must:",
+    "options": [
+      "Detach it",
+      "Use wheel chocks",
+      "Both A and B",
+      "Nothing special"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Towing and Trailers"
+  },
+  {
+    "id": 70,
+    "question": "True or False: You need a special license to tow a caravan over 3,500 kg.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "category": "Towing and Trailers"
+  },
+  {
+    "id": 71,
+    "question": "What should you do if a moose suddenly crosses the road?",
+    "options": [
+      "Swerve to avoid it",
+      "Brake hard and honk",
+      "Slow down but don't swerve",
+      "Flash your lights"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Animals on Roads"
+  },
+  {
+    "id": 72,
+    "question": "True or False: It's illegal to let your dog ride unrestrained in the car.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "category": "Animals on Roads"
+  },
+  {
+    "id": 73,
+    "question": "What does a triangular sign with a deer symbol indicate?",
+    "options": [
+      "Hunting area",
+      "Wildlife crossing",
+      "Petting zoo ahead",
+      "Animal hospital"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Animals on Roads"
+  },
+  {
+    "id": 74,
+    "question": "Who is responsible if your loose pet causes an accident?",
+    "options": ["The pet", "The other driver", "You as the owner", "No one"],
+    "correctAnswerIndex": 2,
+    "category": "Animals on Roads"
+  },
+  {
+    "id": 75,
+    "question": "True or False: You must report hitting a large animal (like a moose) to police.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "category": "Animals on Roads"
+  },
+  {
+    "id": 76,
+    "question": "What's the first thing to do after a minor collision?",
+    "options": [
+      "Move vehicles to safety",
+      "Take photos",
+      "Call insurance",
+      "Argue with other driver"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Emergency Procedures"
+  },
+  {
+    "id": 77,
+    "question": "True or False: You must carry a warning triangle in your car.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "category": "Emergency Procedures"
+  },
+  {
+    "id": 78,
+    "question": "If your car breaks down on the highway, you should:",
+    "options": [
+      "Stay in the car",
+      "Stand behind the barrier",
+      "Walk to next exit",
+      "Repair it yourself"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Emergency Procedures"
+  },
+  {
+    "id": 79,
+    "question": "What information must you exchange after an accident?",
+    "options": [
+      "Only insurance details",
+      "Name, address, and registration",
+      "Nothing",
+      "Social security number"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Emergency Procedures"
+  },
+  {
+    "id": 80,
+    "question": "True or False: You must report all accidents to police.",
+    "options": ["True", "False (only if injuries/damage >10,000 SEK)"],
+    "correctAnswerIndex": 1,
+    "category": "Emergency Procedures"
+  },
+  {
+    "id": 81,
+    "question": "What is \"eco-driving\"?",
+    "options": [
+      "Using electric cars only",
+      "Fuel-efficient driving techniques",
+      "Driving slowly",
+      "Carpooling"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Environmental Driving"
+  },
+  {
+    "id": 82,
+    "question": "True or False: Idling your engine for more than 1 minute is prohibited.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "category": "Environmental Driving"
+  },
+  {
+    "id": 83,
+    "question": "Which reduces fuel consumption most?",
+    "options": [
+      "Sudden acceleration",
+      "Maintaining steady speed",
+      "Driving in low gear",
+      "Using air conditioning"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Environmental Driving"
+  },
+  {
+    "id": 84,
+    "question": "What does a \"Miljözon\" (environmental zone) sign indicate?",
+    "options": [
+      "High emissions area",
+      "Low-emission vehicle zone",
+      "Car-free zone",
+      "Recycling center"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Environmental Driving"
+  },
+  {
+    "id": 85,
+    "question": "True or False: Hybrid cars get free parking in all Swedish cities.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "category": "Environmental Driving"
+  },
+  {
+    "id": 86,
+    "question": "When is handheld phone use permitted while driving?",
+    "options": ["Never", "At red lights", "In slow traffic", "For navigation"],
+    "correctAnswerIndex": 0,
+    "category": "Distractions & Mobile Phones"
+  },
+  {
+    "id": 87,
+    "question": "True or False: Eating while driving is illegal.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "category": "Distractions & Mobile Phones"
+  },
+  {
+    "id": 88,
+    "question": "What's the fine for texting while driving?",
+    "options": ["500 SEK", "1,500 SEK", "3,000 SEK", "6,000 SEK"],
+    "correctAnswerIndex": 1,
+    "category": "Distractions & Mobile Phones"
+  },
+  {
+    "id": 89,
+    "question": "Which is considered a distraction?",
+    "options": [
+      "Adjusting radio",
+      "Talking to passengers",
+      "Both A and B",
+      "Neither"
+    ],
+    "correctAnswerIndex": 2,
+    "category": "Distractions & Mobile Phones"
+  },
+  {
+    "id": 90,
+    "question": "True or False: Hands-free phone calls are completely safe.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "category": "Distractions & Mobile Phones"
+  },
+  {
+    "id": 91,
+    "question": "When must winter tires be used?",
+    "options": [
+      "December-March",
+      "When roads are icy",
+      "November-April",
+      "Year-round"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Winter Driving"
+  },
+  {
+    "id": 92,
+    "question": "True or False: Studded tires damage roads.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "category": "Winter Driving"
+  },
+  {
+    "id": 93,
+    "question": "What's the minimum tread depth for winter tires?",
+    "options": ["1.6 mm", "3.0 mm", "5.0 mm", "No requirement"],
+    "correctAnswerIndex": 1,
+    "category": "Winter Driving"
+  },
+  {
+    "id": 94,
+    "question": "When should you use snow chains?",
+    "options": [
+      "Always in winter",
+      "Only when signposted",
+      "Never in Sweden",
+      "On highways only"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Winter Driving"
+  },
+  {
+    "id": 95,
+    "question": "True or False: You must clear all snow/ice from your car before driving.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "category": "Winter Driving"
+  },
+  {
+    "id": 96,
+    "question": "What's \"black ice\"?",
+    "options": [
+      "Dirty snow",
+      "Thin, transparent ice",
+      "Road markings",
+      "Asphalt defect"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Winter Driving"
+  },
+  {
+    "id": 97,
+    "question": "How should you brake on ice?",
+    "options": [
+      "Pump brakes",
+      "Brake hard",
+      "Use parking brake",
+      "Don't brake"
+    ],
+    "correctAnswerIndex": 0,
+    "category": "Winter Driving"
+  },
+  {
+    "id": 98,
+    "question": "True or False: Four-wheel drive means shorter stopping distances on ice.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 1,
+    "category": "Winter Driving"
+  },
+  {
+    "id": 99,
+    "question": "What should you do if stuck in snow?",
+    "options": [
+      "Spin wheels fast",
+      "Rock gently forward/back",
+      "Honk for help",
+      "Abandon car"
+    ],
+    "correctAnswerIndex": 1,
+    "category": "Winter Driving"
+  },
+  {
+    "id": 100,
+    "question": "True or False: Winter tires are required on all axles.",
+    "options": ["True", "False"],
+    "correctAnswerIndex": 0,
+    "category": "Winter Driving"
   }
 ]
